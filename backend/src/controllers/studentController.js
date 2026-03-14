@@ -37,7 +37,7 @@ export const listStudents = async (req, res) => {
   if (riskLevel) filter.riskLevel = riskLevel;
   if (search) filter.$or = [{ name: { $regex: search, $options: "i" } }, { rollNo: { $regex: search, $options: "i" } }];
 
-  const students = await Student.find(filter).populate("department", "name code").populate("section", "name code").sort({ createdAt: -1 });
+  const students = await Student.find(filter).populate("department", "name code").sort({ createdAt: -1 });
 
   const enriched = students.filter((student) => {
     if (!academicYear && !semester) return true;
