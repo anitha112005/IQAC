@@ -106,7 +106,7 @@ export const createStudentAccount = async (req, res) => {
     email,
     rollNo,
     department: departmentId,
-    section: sectionId,
+    section: section ? section.name : "A",
     currentSemester: semester || 1,
     batch: batch || "2025-2029",
     metrics: []
@@ -124,7 +124,7 @@ export const createStudentAccount = async (req, res) => {
   });
 
   if (sectionId) {
-    await Section.findByIdAndUpdate(sectionId, { $addToSet: { students: student._id } });
+    await Section.findByIdAndUpdate(sectionId, { $inc: { totalStudents: 1 } });
   }
 
   return res.status(201).json({
@@ -134,18 +134,17 @@ export const createStudentAccount = async (req, res) => {
 };
 
 export const createSection = async (req, res) => {
-  const { name, code, semester, departmentId, advisorId, subjects } = req.body;
+  const { name, code, semester, departmentId, academicYear } = req.body;
 
   const department = await Department.findById(departmentId);
   if (!department) return res.status(404).json({ success: false, message: "Department not found" });
 
   const section = await Section.create({
-    name,
-    code,
+    name: String(name || code || "A").toUpperCase(),
     semester,
+    academicYear: academicYear || "2025-26",
     department: departmentId,
-    advisor: advisorId,
-    subjects: subjects || []
+    totalStudents: 0
   });
 
   return res.status(201).json({ success: true, data: section });
@@ -162,10 +161,10 @@ export const assignStudentToSection = async (req, res) => {
   if (!section) return res.status(404).json({ success: false, message: "Section not found" });
   if (!student) return res.status(404).json({ success: false, message: "Student not found" });
 
-  student.section = section._id;
+  student.section = section.name;
   await student.save();
 
-  await Section.findByIdAndUpdate(sectionId, { $addToSet: { students: student._id } });
+  await Section.findByIdAndUpdate(sectionId, { $inc: { totalStudents: 1 } });
 
   return res.status(200).json({ success: true, message: "Student assigned to section" });
 };
@@ -227,13 +226,30 @@ export const universityAnalytics = async (_, res) => {
 };
 
 export const listAdminEntities = async (_, res) => {
-  const [departments, faculties, sections, students, hodUsers] = await Promise.all([
+  const [departments, faculties, sectionsRaw, studentsRaw, hodUsers] = await Promise.all([
     Department.find().sort({ name: 1 }),
     Faculty.find().populate("user", "name email").populate("department", "name code"),
-    Section.find().populate("department", "name code").populate("advisor", "name email"),
-    Student.find().populate("department", "name code").populate("section", "name code"),
+    Section.find().populate("department", "name code"),
+    Student.find().populate("department", "name code"),
     User.find({ role: "hod" }).populate("department", "name code")
   ]);
+
+  const sections = sectionsRaw.map((section) => {
+    const row = section.toObject();
+    return {
+      ...row,
+      code: row.name,
+      advisor: null
+    };
+  });
+
+  const students = studentsRaw.map((student) => {
+    const row = student.toObject();
+    return {
+      ...row,
+      section: row.section
+    };
+  });
 
   return res.status(200).json({
     success: true,
