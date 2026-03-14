@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const accreditationItemSchema = new mongoose.Schema(
   {
@@ -15,4 +16,4 @@ const accreditationItemSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("AccreditationItem", accreditationItemSchema);
+export default mainDB.model("AccreditationItem", accreditationItemSchema);

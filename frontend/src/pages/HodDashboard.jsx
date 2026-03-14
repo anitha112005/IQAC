@@ -1,29 +1,10 @@
-import { useAuth } from "../context/AuthContext.jsx";
-
-export default function HodDashboard() {
-  const { user } = useAuth();
-
-  return (
-    <div className="space-y-6">
-      <div className="rounded-2xl border border-white/40 bg-white/80 p-8 shadow-sm">
-        <h2 className="font-heading text-2xl font-bold text-brand-ink">
-          HOD Dashboard
-        </h2>
-        <p className="mt-2 text-brand-ink/70">
-          Welcome, {user?.name}. This is your departmental overview.
-        </p>
-      </div>
-      {/* Add HOD specific components here later */}
-    </div>
-  );
-}
 import { useEffect, useState } from "react";
 import { useAuth } from "../context/AuthContext.jsx";
 import client from "../api/client";
 
 export default function HodDashboard() {
   const { user } = useAuth();
-  const [analytics, setAnhttps://github.com/anitha112005/IQAC/pull/2/conflict?name=backend%252Fsrc%252Fserver.js&ancestor_oid=48bc8ca45c07f293850be3a15b8ee140c01b50b7&base_oid=ac9a99a699b99544ac94aa7ec8ecca050dd275a6&head_oid=3168848349b2fc1c8e96613d2a5a5283b2f843a3alytics] = useState(null);
+  const [analytics, setAnalytics] = useState(null);
   const [placementForm, setPlacementForm] = useState({
     academicYear: "2025-26",
     totalEligible: 120,

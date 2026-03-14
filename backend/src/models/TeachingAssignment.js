@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const teachingAssignmentSchema = new mongoose.Schema(
   {
@@ -18,4 +19,4 @@ teachingAssignmentSchema.index(
   { unique: true }
 );
 
-export default mongoose.model("TeachingAssignment", teachingAssignmentSchema);
+export default mainDB.model("TeachingAssignment", teachingAssignmentSchema);

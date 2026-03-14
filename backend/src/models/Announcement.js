@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const announcementSchema = new mongoose.Schema(
   {
@@ -13,4 +14,4 @@ const announcementSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("Announcement", announcementSchema);
+export default mainDB.model("Announcement", announcementSchema);

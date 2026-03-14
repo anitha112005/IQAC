@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const markSchema = new mongoose.Schema(
   {
@@ -22,4 +23,4 @@ const markSchema = new mongoose.Schema(
 
 markSchema.index({ student: 1, subjectCode: 1, semester: 1, academicYear: 1 }, { unique: true });
 
-export default mongoose.model("Mark", markSchema);
+export default mainDB.model("Mark", markSchema);

@@ -1,0 +1,604 @@
+[
+  {
+    "rollNo": "STU1001",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1001",
+    "eventName": "Hackathon",
+    "eventType": "Cultural",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1002",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1003",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1003",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1004",
+    "eventName": "Hackathon",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1005",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1005",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1007",
+    "eventName": "Hackathon",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1008",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1009",
+    "eventName": "Coding Contest",
+    "eventType": "Cultural",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1009",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1011",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1014",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1014",
+    "eventName": "Coding Contest",
+    "eventType": "Technical",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1015",
+    "eventName": "Hackathon",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1015",
+    "eventName": "Hackathon",
+    "eventType": "Cultural",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1016",
+    "eventName": "Coding Contest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1017",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1019",
+    "eventName": "Hackathon",
+    "eventType": "Sports",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1019",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1021",
+    "eventName": "Coding Contest",
+    "eventType": "Technical",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1025",
+    "eventName": "Hackathon",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1026",
+    "eventName": "Hackathon",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1027",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1028",
+    "eventName": "Coding Contest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1028",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1029",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1034",
+    "eventName": "Hackathon",
+    "eventType": "Cultural",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1035",
+    "eventName": "Hackathon",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1036",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1037",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1040",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1041",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1042",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1044",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1044",
+    "eventName": "Coding Contest",
+    "eventType": "Cultural",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1045",
+    "eventName": "Coding Contest",
+    "eventType": "Cultural",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1045",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1046",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1046",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1047",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1047",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1048",
+    "eventName": "Hackathon",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1049",
+    "eventName": "Hackathon",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1050",
+    "eventName": "Coding Contest",
+    "eventType": "Cultural",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1050",
+    "eventName": "Hackathon",
+    "eventType": "Cultural",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1052",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1053",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1054",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1055",
+    "eventName": "Coding Contest",
+    "eventType": "Technical",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1056",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1058",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1061",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1061",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1062",
+    "eventName": "Coding Contest",
+    "eventType": "Technical",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1065",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1066",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1068",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1068",
+    "eventName": "Hackathon",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1069",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1069",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1070",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1070",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1071",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1072",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1072",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1075",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1075",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1077",
+    "eventName": "Hackathon",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1077",
+    "eventName": "Coding Contest",
+    "eventType": "Cultural",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1079",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1080",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1080",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1081",
+    "eventName": "Coding Contest",
+    "eventType": "Technical",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1082",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1083",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1084",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1084",
+    "eventName": "Hackathon",
+    "eventType": "Cultural",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1085",
+    "eventName": "Coding Contest",
+    "eventType": "Sports",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1086",
+    "eventName": "Hackathon",
+    "eventType": "Technical",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1087",
+    "eventName": "Tech Fest",
+    "eventType": "Technical",
+    "position": "Winner",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1087",
+    "eventName": "Coding Contest",
+    "eventType": "Cultural",
+    "position": "Runner Up",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1088",
+    "eventName": "Tech Fest",
+    "eventType": "Sports",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1089",
+    "eventName": "Coding Contest",
+    "eventType": "Technical",
+    "position": "Participant",
+    "year": "2024"
+  },
+  {
+    "rollNo": "STU1090",
+    "eventName": "Tech Fest",
+    "eventType": "Cultural",
+    "position": "Winner",
+    "year": "2024"
+  }
+]

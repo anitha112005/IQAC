@@ -1,0 +1,65 @@
+[
+  {
+    "deptId": "CSE",
+    "academicYear": "2022-23",
+    "totalEligible": 80,
+    "totalPlaced": 49,
+    "placementPercentage": 61.25
+  },
+  {
+    "deptId": "CSE",
+    "academicYear": "2023-24",
+    "totalEligible": 62,
+    "totalPlaced": 52,
+    "placementPercentage": 83.87
+  },
+  {
+    "deptId": "CSE",
+    "academicYear": "2024-25",
+    "totalEligible": 67,
+    "totalPlaced": 40,
+    "placementPercentage": 59.7
+  },
+  {
+    "deptId": "ECE",
+    "academicYear": "2022-23",
+    "totalEligible": 81,
+    "totalPlaced": 64,
+    "placementPercentage": 79.01
+  },
+  {
+    "deptId": "ECE",
+    "academicYear": "2023-24",
+    "totalEligible": 70,
+    "totalPlaced": 61,
+    "placementPercentage": 87.14
+  },
+  {
+    "deptId": "ECE",
+    "academicYear": "2024-25",
+    "totalEligible": 75,
+    "totalPlaced": 56,
+    "placementPercentage": 74.67
+  },
+  {
+    "deptId": "MECH",
+    "academicYear": "2022-23",
+    "totalEligible": 95,
+    "totalPlaced": 61,
+    "placementPercentage": 64.21
+  },
+  {
+    "deptId": "MECH",
+    "academicYear": "2023-24",
+    "totalEligible": 95,
+    "totalPlaced": 69,
+    "placementPercentage": 72.63
+  },
+  {
+    "deptId": "MECH",
+    "academicYear": "2024-25",
+    "totalEligible": 89,
+    "totalPlaced": 59,
+    "placementPercentage": 66.29
+  }
+]

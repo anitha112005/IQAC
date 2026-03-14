@@ -1,0 +1,338 @@
+[
+  {
+    "docId": "DOC2560",
+    "deptId": "CSE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-1",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC7743",
+    "deptId": "CSE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-2",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC5543",
+    "deptId": "CSE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-3",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC3078",
+    "deptId": "CSE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-4",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC3174",
+    "deptId": "CSE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-5",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC3396",
+    "deptId": "CSE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-6",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC6277",
+    "deptId": "CSE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-7",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC7434",
+    "deptId": "CSE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-1",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC3329",
+    "deptId": "CSE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-2",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC5402",
+    "deptId": "CSE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-3",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC7786",
+    "deptId": "CSE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-4",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC8405",
+    "deptId": "CSE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-5",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC2525",
+    "deptId": "CSE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-6",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC9447",
+    "deptId": "CSE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-7",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC5558",
+    "deptId": "ECE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-1",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC7046",
+    "deptId": "ECE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-2",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC8996",
+    "deptId": "ECE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-3",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC1040",
+    "deptId": "ECE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-4",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC2526",
+    "deptId": "ECE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-5",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC8511",
+    "deptId": "ECE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-6",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC6869",
+    "deptId": "ECE",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-7",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC9756",
+    "deptId": "ECE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-1",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC4568",
+    "deptId": "ECE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-2",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC4470",
+    "deptId": "ECE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-3",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC5399",
+    "deptId": "ECE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-4",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC5646",
+    "deptId": "ECE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-5",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC9967",
+    "deptId": "ECE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-6",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC3139",
+    "deptId": "ECE",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-7",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC8951",
+    "deptId": "MECH",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-1",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC1793",
+    "deptId": "MECH",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-2",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC2631",
+    "deptId": "MECH",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-3",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC8529",
+    "deptId": "MECH",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-4",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC3035",
+    "deptId": "MECH",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-5",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC8230",
+    "deptId": "MECH",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-6",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC1011",
+    "deptId": "MECH",
+    "accreditationBody": "NBA",
+    "criteria": "Criterion-7",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC4314",
+    "deptId": "MECH",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-1",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC3161",
+    "deptId": "MECH",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-2",
+    "status": "Verified",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC5945",
+    "deptId": "MECH",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-3",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC5489",
+    "deptId": "MECH",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-4",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC6905",
+    "deptId": "MECH",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-5",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC2350",
+    "deptId": "MECH",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-6",
+    "status": "Pending",
+    "academicYear": "2024-25"
+  },
+  {
+    "docId": "DOC3711",
+    "deptId": "MECH",
+    "accreditationBody": "NAAC",
+    "criteria": "Criterion-7",
+    "status": "Uploaded",
+    "academicYear": "2024-25"
+  }
+]

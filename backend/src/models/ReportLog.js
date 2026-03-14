@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const reportLogSchema = new mongoose.Schema(
   {
@@ -22,4 +23,4 @@ const reportLogSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("ReportLog", reportLogSchema);
+export default mainDB.model("ReportLog", reportLogSchema);

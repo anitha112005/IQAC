@@ -1,0 +1,3602 @@
+[
+  {
+    "rollNo": "STU1001",
+    "subjectCode": "CSE101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1001",
+    "subjectCode": "CSE102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1001",
+    "subjectCode": "CSE103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1001",
+    "subjectCode": "CSE104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1001",
+    "subjectCode": "CSE105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1002",
+    "subjectCode": "CSE101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1002",
+    "subjectCode": "CSE102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1002",
+    "subjectCode": "CSE103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1002",
+    "subjectCode": "CSE104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1002",
+    "subjectCode": "CSE105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1003",
+    "subjectCode": "CSE101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1003",
+    "subjectCode": "CSE102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1003",
+    "subjectCode": "CSE103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1003",
+    "subjectCode": "CSE104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1003",
+    "subjectCode": "CSE105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1004",
+    "subjectCode": "CSE101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1004",
+    "subjectCode": "CSE102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1004",
+    "subjectCode": "CSE103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1004",
+    "subjectCode": "CSE104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1004",
+    "subjectCode": "CSE105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1005",
+    "subjectCode": "CSE101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1005",
+    "subjectCode": "CSE102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1005",
+    "subjectCode": "CSE103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1005",
+    "subjectCode": "CSE104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1005",
+    "subjectCode": "CSE105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1006",
+    "subjectCode": "CSE101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1006",
+    "subjectCode": "CSE102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1006",
+    "subjectCode": "CSE103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1006",
+    "subjectCode": "CSE104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1006",
+    "subjectCode": "CSE105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1007",
+    "subjectCode": "CSE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1007",
+    "subjectCode": "CSE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1007",
+    "subjectCode": "CSE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1007",
+    "subjectCode": "CSE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1007",
+    "subjectCode": "CSE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1008",
+    "subjectCode": "CSE101",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1008",
+    "subjectCode": "CSE102",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1008",
+    "subjectCode": "CSE103",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1008",
+    "subjectCode": "CSE104",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1008",
+    "subjectCode": "CSE105",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1009",
+    "subjectCode": "CSE101",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1009",
+    "subjectCode": "CSE102",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1009",
+    "subjectCode": "CSE103",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1009",
+    "subjectCode": "CSE104",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1009",
+    "subjectCode": "CSE105",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1010",
+    "subjectCode": "CSE101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1010",
+    "subjectCode": "CSE102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1010",
+    "subjectCode": "CSE103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1010",
+    "subjectCode": "CSE104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1010",
+    "subjectCode": "CSE105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1011",
+    "subjectCode": "CSE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1011",
+    "subjectCode": "CSE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1011",
+    "subjectCode": "CSE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1011",
+    "subjectCode": "CSE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1011",
+    "subjectCode": "CSE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1012",
+    "subjectCode": "CSE101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1012",
+    "subjectCode": "CSE102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1012",
+    "subjectCode": "CSE103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1012",
+    "subjectCode": "CSE104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1012",
+    "subjectCode": "CSE105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1013",
+    "subjectCode": "CSE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1013",
+    "subjectCode": "CSE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1013",
+    "subjectCode": "CSE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1013",
+    "subjectCode": "CSE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1013",
+    "subjectCode": "CSE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1014",
+    "subjectCode": "CSE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1014",
+    "subjectCode": "CSE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1014",
+    "subjectCode": "CSE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1014",
+    "subjectCode": "CSE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1014",
+    "subjectCode": "CSE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1015",
+    "subjectCode": "CSE101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1015",
+    "subjectCode": "CSE102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1015",
+    "subjectCode": "CSE103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1015",
+    "subjectCode": "CSE104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1015",
+    "subjectCode": "CSE105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1016",
+    "subjectCode": "CSE101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1016",
+    "subjectCode": "CSE102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1016",
+    "subjectCode": "CSE103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1016",
+    "subjectCode": "CSE104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1016",
+    "subjectCode": "CSE105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1017",
+    "subjectCode": "CSE101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1017",
+    "subjectCode": "CSE102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1017",
+    "subjectCode": "CSE103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1017",
+    "subjectCode": "CSE104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1017",
+    "subjectCode": "CSE105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1018",
+    "subjectCode": "CSE101",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1018",
+    "subjectCode": "CSE102",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1018",
+    "subjectCode": "CSE103",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1018",
+    "subjectCode": "CSE104",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1018",
+    "subjectCode": "CSE105",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1019",
+    "subjectCode": "CSE101",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1019",
+    "subjectCode": "CSE102",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1019",
+    "subjectCode": "CSE103",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1019",
+    "subjectCode": "CSE104",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1019",
+    "subjectCode": "CSE105",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1020",
+    "subjectCode": "CSE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1020",
+    "subjectCode": "CSE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1020",
+    "subjectCode": "CSE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1020",
+    "subjectCode": "CSE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1020",
+    "subjectCode": "CSE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1021",
+    "subjectCode": "CSE101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1021",
+    "subjectCode": "CSE102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1021",
+    "subjectCode": "CSE103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1021",
+    "subjectCode": "CSE104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1021",
+    "subjectCode": "CSE105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1022",
+    "subjectCode": "CSE101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1022",
+    "subjectCode": "CSE102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1022",
+    "subjectCode": "CSE103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1022",
+    "subjectCode": "CSE104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1022",
+    "subjectCode": "CSE105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1023",
+    "subjectCode": "CSE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1023",
+    "subjectCode": "CSE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1023",
+    "subjectCode": "CSE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1023",
+    "subjectCode": "CSE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1023",
+    "subjectCode": "CSE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1024",
+    "subjectCode": "CSE101",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1024",
+    "subjectCode": "CSE102",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1024",
+    "subjectCode": "CSE103",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1024",
+    "subjectCode": "CSE104",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1024",
+    "subjectCode": "CSE105",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1025",
+    "subjectCode": "CSE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1025",
+    "subjectCode": "CSE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1025",
+    "subjectCode": "CSE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1025",
+    "subjectCode": "CSE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1025",
+    "subjectCode": "CSE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1026",
+    "subjectCode": "CSE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1026",
+    "subjectCode": "CSE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1026",
+    "subjectCode": "CSE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1026",
+    "subjectCode": "CSE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1026",
+    "subjectCode": "CSE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1027",
+    "subjectCode": "CSE101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1027",
+    "subjectCode": "CSE102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1027",
+    "subjectCode": "CSE103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1027",
+    "subjectCode": "CSE104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1027",
+    "subjectCode": "CSE105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1028",
+    "subjectCode": "CSE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1028",
+    "subjectCode": "CSE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1028",
+    "subjectCode": "CSE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1028",
+    "subjectCode": "CSE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1028",
+    "subjectCode": "CSE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1029",
+    "subjectCode": "CSE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1029",
+    "subjectCode": "CSE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1029",
+    "subjectCode": "CSE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1029",
+    "subjectCode": "CSE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1029",
+    "subjectCode": "CSE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1030",
+    "subjectCode": "CSE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1030",
+    "subjectCode": "CSE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1030",
+    "subjectCode": "CSE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1030",
+    "subjectCode": "CSE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1030",
+    "subjectCode": "CSE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1031",
+    "subjectCode": "ECE101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1031",
+    "subjectCode": "ECE102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1031",
+    "subjectCode": "ECE103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1031",
+    "subjectCode": "ECE104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1031",
+    "subjectCode": "ECE105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1032",
+    "subjectCode": "ECE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1032",
+    "subjectCode": "ECE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1032",
+    "subjectCode": "ECE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1032",
+    "subjectCode": "ECE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1032",
+    "subjectCode": "ECE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1033",
+    "subjectCode": "ECE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1033",
+    "subjectCode": "ECE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1033",
+    "subjectCode": "ECE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1033",
+    "subjectCode": "ECE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1033",
+    "subjectCode": "ECE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1034",
+    "subjectCode": "ECE101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1034",
+    "subjectCode": "ECE102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1034",
+    "subjectCode": "ECE103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1034",
+    "subjectCode": "ECE104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1034",
+    "subjectCode": "ECE105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1035",
+    "subjectCode": "ECE101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1035",
+    "subjectCode": "ECE102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1035",
+    "subjectCode": "ECE103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1035",
+    "subjectCode": "ECE104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1035",
+    "subjectCode": "ECE105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1036",
+    "subjectCode": "ECE101",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1036",
+    "subjectCode": "ECE102",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1036",
+    "subjectCode": "ECE103",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1036",
+    "subjectCode": "ECE104",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1036",
+    "subjectCode": "ECE105",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1037",
+    "subjectCode": "ECE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1037",
+    "subjectCode": "ECE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1037",
+    "subjectCode": "ECE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1037",
+    "subjectCode": "ECE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1037",
+    "subjectCode": "ECE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1038",
+    "subjectCode": "ECE101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1038",
+    "subjectCode": "ECE102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1038",
+    "subjectCode": "ECE103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1038",
+    "subjectCode": "ECE104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1038",
+    "subjectCode": "ECE105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1039",
+    "subjectCode": "ECE101",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1039",
+    "subjectCode": "ECE102",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1039",
+    "subjectCode": "ECE103",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1039",
+    "subjectCode": "ECE104",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1039",
+    "subjectCode": "ECE105",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1040",
+    "subjectCode": "ECE101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1040",
+    "subjectCode": "ECE102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1040",
+    "subjectCode": "ECE103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1040",
+    "subjectCode": "ECE104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1040",
+    "subjectCode": "ECE105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1041",
+    "subjectCode": "ECE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1041",
+    "subjectCode": "ECE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1041",
+    "subjectCode": "ECE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1041",
+    "subjectCode": "ECE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1041",
+    "subjectCode": "ECE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1042",
+    "subjectCode": "ECE101",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1042",
+    "subjectCode": "ECE102",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1042",
+    "subjectCode": "ECE103",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1042",
+    "subjectCode": "ECE104",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1042",
+    "subjectCode": "ECE105",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1043",
+    "subjectCode": "ECE101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1043",
+    "subjectCode": "ECE102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1043",
+    "subjectCode": "ECE103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1043",
+    "subjectCode": "ECE104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1043",
+    "subjectCode": "ECE105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1044",
+    "subjectCode": "ECE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1044",
+    "subjectCode": "ECE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1044",
+    "subjectCode": "ECE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1044",
+    "subjectCode": "ECE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1044",
+    "subjectCode": "ECE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1045",
+    "subjectCode": "ECE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1045",
+    "subjectCode": "ECE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1045",
+    "subjectCode": "ECE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1045",
+    "subjectCode": "ECE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1045",
+    "subjectCode": "ECE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1046",
+    "subjectCode": "ECE101",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1046",
+    "subjectCode": "ECE102",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1046",
+    "subjectCode": "ECE103",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1046",
+    "subjectCode": "ECE104",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1046",
+    "subjectCode": "ECE105",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1047",
+    "subjectCode": "ECE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1047",
+    "subjectCode": "ECE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1047",
+    "subjectCode": "ECE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1047",
+    "subjectCode": "ECE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1047",
+    "subjectCode": "ECE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1048",
+    "subjectCode": "ECE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1048",
+    "subjectCode": "ECE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1048",
+    "subjectCode": "ECE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1048",
+    "subjectCode": "ECE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1048",
+    "subjectCode": "ECE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1049",
+    "subjectCode": "ECE101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1049",
+    "subjectCode": "ECE102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1049",
+    "subjectCode": "ECE103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1049",
+    "subjectCode": "ECE104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1049",
+    "subjectCode": "ECE105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1050",
+    "subjectCode": "ECE101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1050",
+    "subjectCode": "ECE102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1050",
+    "subjectCode": "ECE103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1050",
+    "subjectCode": "ECE104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1050",
+    "subjectCode": "ECE105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1051",
+    "subjectCode": "ECE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1051",
+    "subjectCode": "ECE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1051",
+    "subjectCode": "ECE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1051",
+    "subjectCode": "ECE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1051",
+    "subjectCode": "ECE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1052",
+    "subjectCode": "ECE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1052",
+    "subjectCode": "ECE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1052",
+    "subjectCode": "ECE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1052",
+    "subjectCode": "ECE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1052",
+    "subjectCode": "ECE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1053",
+    "subjectCode": "ECE101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1053",
+    "subjectCode": "ECE102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1053",
+    "subjectCode": "ECE103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1053",
+    "subjectCode": "ECE104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1053",
+    "subjectCode": "ECE105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1054",
+    "subjectCode": "ECE101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1054",
+    "subjectCode": "ECE102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1054",
+    "subjectCode": "ECE103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1054",
+    "subjectCode": "ECE104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1054",
+    "subjectCode": "ECE105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1055",
+    "subjectCode": "ECE101",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1055",
+    "subjectCode": "ECE102",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1055",
+    "subjectCode": "ECE103",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1055",
+    "subjectCode": "ECE104",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1055",
+    "subjectCode": "ECE105",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1056",
+    "subjectCode": "ECE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1056",
+    "subjectCode": "ECE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1056",
+    "subjectCode": "ECE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1056",
+    "subjectCode": "ECE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1056",
+    "subjectCode": "ECE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1057",
+    "subjectCode": "ECE101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1057",
+    "subjectCode": "ECE102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1057",
+    "subjectCode": "ECE103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1057",
+    "subjectCode": "ECE104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1057",
+    "subjectCode": "ECE105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1058",
+    "subjectCode": "ECE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1058",
+    "subjectCode": "ECE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1058",
+    "subjectCode": "ECE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1058",
+    "subjectCode": "ECE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1058",
+    "subjectCode": "ECE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1059",
+    "subjectCode": "ECE101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1059",
+    "subjectCode": "ECE102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1059",
+    "subjectCode": "ECE103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1059",
+    "subjectCode": "ECE104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1059",
+    "subjectCode": "ECE105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1060",
+    "subjectCode": "ECE101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1060",
+    "subjectCode": "ECE102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1060",
+    "subjectCode": "ECE103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1060",
+    "subjectCode": "ECE104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1060",
+    "subjectCode": "ECE105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1061",
+    "subjectCode": "MECH101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1061",
+    "subjectCode": "MECH102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1061",
+    "subjectCode": "MECH103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1061",
+    "subjectCode": "MECH104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1061",
+    "subjectCode": "MECH105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1062",
+    "subjectCode": "MECH101",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1062",
+    "subjectCode": "MECH102",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1062",
+    "subjectCode": "MECH103",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1062",
+    "subjectCode": "MECH104",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1062",
+    "subjectCode": "MECH105",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1063",
+    "subjectCode": "MECH101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1063",
+    "subjectCode": "MECH102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1063",
+    "subjectCode": "MECH103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1063",
+    "subjectCode": "MECH104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1063",
+    "subjectCode": "MECH105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1064",
+    "subjectCode": "MECH101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1064",
+    "subjectCode": "MECH102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1064",
+    "subjectCode": "MECH103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1064",
+    "subjectCode": "MECH104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1064",
+    "subjectCode": "MECH105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1065",
+    "subjectCode": "MECH101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1065",
+    "subjectCode": "MECH102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1065",
+    "subjectCode": "MECH103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1065",
+    "subjectCode": "MECH104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1065",
+    "subjectCode": "MECH105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1066",
+    "subjectCode": "MECH101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1066",
+    "subjectCode": "MECH102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1066",
+    "subjectCode": "MECH103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1066",
+    "subjectCode": "MECH104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1066",
+    "subjectCode": "MECH105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1067",
+    "subjectCode": "MECH101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1067",
+    "subjectCode": "MECH102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1067",
+    "subjectCode": "MECH103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1067",
+    "subjectCode": "MECH104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1067",
+    "subjectCode": "MECH105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1068",
+    "subjectCode": "MECH101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1068",
+    "subjectCode": "MECH102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1068",
+    "subjectCode": "MECH103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1068",
+    "subjectCode": "MECH104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1068",
+    "subjectCode": "MECH105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1069",
+    "subjectCode": "MECH101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1069",
+    "subjectCode": "MECH102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1069",
+    "subjectCode": "MECH103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1069",
+    "subjectCode": "MECH104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1069",
+    "subjectCode": "MECH105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1070",
+    "subjectCode": "MECH101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1070",
+    "subjectCode": "MECH102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1070",
+    "subjectCode": "MECH103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1070",
+    "subjectCode": "MECH104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1070",
+    "subjectCode": "MECH105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1071",
+    "subjectCode": "MECH101",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1071",
+    "subjectCode": "MECH102",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1071",
+    "subjectCode": "MECH103",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1071",
+    "subjectCode": "MECH104",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1071",
+    "subjectCode": "MECH105",
+    "semester": 1,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1072",
+    "subjectCode": "MECH101",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1072",
+    "subjectCode": "MECH102",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1072",
+    "subjectCode": "MECH103",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1072",
+    "subjectCode": "MECH104",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1072",
+    "subjectCode": "MECH105",
+    "semester": 4,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1073",
+    "subjectCode": "MECH101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1073",
+    "subjectCode": "MECH102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1073",
+    "subjectCode": "MECH103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1073",
+    "subjectCode": "MECH104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1073",
+    "subjectCode": "MECH105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1074",
+    "subjectCode": "MECH101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1074",
+    "subjectCode": "MECH102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1074",
+    "subjectCode": "MECH103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1074",
+    "subjectCode": "MECH104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1074",
+    "subjectCode": "MECH105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1075",
+    "subjectCode": "MECH101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1075",
+    "subjectCode": "MECH102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1075",
+    "subjectCode": "MECH103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1075",
+    "subjectCode": "MECH104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1075",
+    "subjectCode": "MECH105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1076",
+    "subjectCode": "MECH101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1076",
+    "subjectCode": "MECH102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1076",
+    "subjectCode": "MECH103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1076",
+    "subjectCode": "MECH104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1076",
+    "subjectCode": "MECH105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1077",
+    "subjectCode": "MECH101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1077",
+    "subjectCode": "MECH102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1077",
+    "subjectCode": "MECH103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1077",
+    "subjectCode": "MECH104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1077",
+    "subjectCode": "MECH105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1078",
+    "subjectCode": "MECH101",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1078",
+    "subjectCode": "MECH102",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1078",
+    "subjectCode": "MECH103",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1078",
+    "subjectCode": "MECH104",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1078",
+    "subjectCode": "MECH105",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1079",
+    "subjectCode": "MECH101",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1079",
+    "subjectCode": "MECH102",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1079",
+    "subjectCode": "MECH103",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1079",
+    "subjectCode": "MECH104",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1079",
+    "subjectCode": "MECH105",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1080",
+    "subjectCode": "MECH101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1080",
+    "subjectCode": "MECH102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1080",
+    "subjectCode": "MECH103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1080",
+    "subjectCode": "MECH104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 33,
+    "percentage": 82.5
+  },
+  {
+    "rollNo": "STU1080",
+    "subjectCode": "MECH105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1081",
+    "subjectCode": "MECH101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1081",
+    "subjectCode": "MECH102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1081",
+    "subjectCode": "MECH103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1081",
+    "subjectCode": "MECH104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1081",
+    "subjectCode": "MECH105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1082",
+    "subjectCode": "MECH101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1082",
+    "subjectCode": "MECH102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1082",
+    "subjectCode": "MECH103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1082",
+    "subjectCode": "MECH104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1082",
+    "subjectCode": "MECH105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1083",
+    "subjectCode": "MECH101",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1083",
+    "subjectCode": "MECH102",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1083",
+    "subjectCode": "MECH103",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1083",
+    "subjectCode": "MECH104",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1083",
+    "subjectCode": "MECH105",
+    "semester": 5,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1084",
+    "subjectCode": "MECH101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1084",
+    "subjectCode": "MECH102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 35,
+    "percentage": 87.5
+  },
+  {
+    "rollNo": "STU1084",
+    "subjectCode": "MECH103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1084",
+    "subjectCode": "MECH104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1084",
+    "subjectCode": "MECH105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1085",
+    "subjectCode": "MECH101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1085",
+    "subjectCode": "MECH102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1085",
+    "subjectCode": "MECH103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 32,
+    "percentage": 80.0
+  },
+  {
+    "rollNo": "STU1085",
+    "subjectCode": "MECH104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1085",
+    "subjectCode": "MECH105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1086",
+    "subjectCode": "MECH101",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 25,
+    "percentage": 62.5
+  },
+  {
+    "rollNo": "STU1086",
+    "subjectCode": "MECH102",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1086",
+    "subjectCode": "MECH103",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1086",
+    "subjectCode": "MECH104",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1086",
+    "subjectCode": "MECH105",
+    "semester": 7,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1087",
+    "subjectCode": "MECH101",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 40,
+    "percentage": 100.0
+  },
+  {
+    "rollNo": "STU1087",
+    "subjectCode": "MECH102",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1087",
+    "subjectCode": "MECH103",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 39,
+    "percentage": 97.5
+  },
+  {
+    "rollNo": "STU1087",
+    "subjectCode": "MECH104",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1087",
+    "subjectCode": "MECH105",
+    "semester": 2,
+    "totalClasses": 40,
+    "attendedClasses": 29,
+    "percentage": 72.5
+  },
+  {
+    "rollNo": "STU1088",
+    "subjectCode": "MECH101",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1088",
+    "subjectCode": "MECH102",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1088",
+    "subjectCode": "MECH103",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1088",
+    "subjectCode": "MECH104",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 31,
+    "percentage": 77.5
+  },
+  {
+    "rollNo": "STU1088",
+    "subjectCode": "MECH105",
+    "semester": 6,
+    "totalClasses": 40,
+    "attendedClasses": 30,
+    "percentage": 75.0
+  },
+  {
+    "rollNo": "STU1089",
+    "subjectCode": "MECH101",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 37,
+    "percentage": 92.5
+  },
+  {
+    "rollNo": "STU1089",
+    "subjectCode": "MECH102",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1089",
+    "subjectCode": "MECH103",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 26,
+    "percentage": 65.0
+  },
+  {
+    "rollNo": "STU1089",
+    "subjectCode": "MECH104",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 36,
+    "percentage": 90.0
+  },
+  {
+    "rollNo": "STU1089",
+    "subjectCode": "MECH105",
+    "semester": 3,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1090",
+    "subjectCode": "MECH101",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  },
+  {
+    "rollNo": "STU1090",
+    "subjectCode": "MECH102",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 34,
+    "percentage": 85.0
+  },
+  {
+    "rollNo": "STU1090",
+    "subjectCode": "MECH103",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 38,
+    "percentage": 95.0
+  },
+  {
+    "rollNo": "STU1090",
+    "subjectCode": "MECH104",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 27,
+    "percentage": 67.5
+  },
+  {
+    "rollNo": "STU1090",
+    "subjectCode": "MECH105",
+    "semester": 8,
+    "totalClasses": 40,
+    "attendedClasses": 28,
+    "percentage": 70.0
+  }
+]

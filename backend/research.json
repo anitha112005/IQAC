@@ -1,0 +1,202 @@
+[
+  {
+    "pubId": "PUB4022",
+    "empId": "FAC002",
+    "deptId": "CSE",
+    "journal": "IEEE",
+    "year": "2024",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB7481",
+    "empId": "FAC002",
+    "deptId": "CSE",
+    "journal": "IEEE",
+    "year": "2024",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB8037",
+    "empId": "FAC003",
+    "deptId": "CSE",
+    "journal": "Springer",
+    "year": "2022",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB4371",
+    "empId": "FAC003",
+    "deptId": "CSE",
+    "journal": "Springer",
+    "year": "2024",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB9796",
+    "empId": "FAC004",
+    "deptId": "CSE",
+    "journal": "IEEE",
+    "year": "2023",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB8496",
+    "empId": "FAC005",
+    "deptId": "CSE",
+    "journal": "IEEE",
+    "year": "2023",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB7367",
+    "empId": "FAC006",
+    "deptId": "CSE",
+    "journal": "Elsevier",
+    "year": "2023",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB6700",
+    "empId": "FAC006",
+    "deptId": "CSE",
+    "journal": "Springer",
+    "year": "2023",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB2388",
+    "empId": "FAC007",
+    "deptId": "ECE",
+    "journal": "Elsevier",
+    "year": "2022",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB2931",
+    "empId": "FAC007",
+    "deptId": "ECE",
+    "journal": "IEEE",
+    "year": "2023",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB7116",
+    "empId": "FAC008",
+    "deptId": "ECE",
+    "journal": "Elsevier",
+    "year": "2022",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB3258",
+    "empId": "FAC009",
+    "deptId": "ECE",
+    "journal": "Elsevier",
+    "year": "2023",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB4043",
+    "empId": "FAC009",
+    "deptId": "ECE",
+    "journal": "Springer",
+    "year": "2024",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB9022",
+    "empId": "FAC010",
+    "deptId": "ECE",
+    "journal": "Springer",
+    "year": "2022",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB8389",
+    "empId": "FAC011",
+    "deptId": "ECE",
+    "journal": "Elsevier",
+    "year": "2022",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB1157",
+    "empId": "FAC011",
+    "deptId": "ECE",
+    "journal": "Springer",
+    "year": "2022",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB9281",
+    "empId": "FAC012",
+    "deptId": "MECH",
+    "journal": "Elsevier",
+    "year": "2023",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB9056",
+    "empId": "FAC012",
+    "deptId": "MECH",
+    "journal": "Springer",
+    "year": "2024",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB3740",
+    "empId": "FAC013",
+    "deptId": "MECH",
+    "journal": "IEEE",
+    "year": "2024",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB4613",
+    "empId": "FAC013",
+    "deptId": "MECH",
+    "journal": "Springer",
+    "year": "2022",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB9808",
+    "empId": "FAC014",
+    "deptId": "MECH",
+    "journal": "Springer",
+    "year": "2022",
+    "accreditationMapping": "NBA-C5"
+  },
+  {
+    "pubId": "PUB9369",
+    "empId": "FAC015",
+    "deptId": "MECH",
+    "journal": "IEEE",
+    "year": "2024",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB5389",
+    "empId": "FAC015",
+    "deptId": "MECH",
+    "journal": "Elsevier",
+    "year": "2023",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB9951",
+    "empId": "FAC016",
+    "deptId": "MECH",
+    "journal": "IEEE",
+    "year": "2023",
+    "accreditationMapping": "NAAC-C3"
+  },
+  {
+    "pubId": "PUB5055",
+    "empId": "FAC016",
+    "deptId": "MECH",
+    "journal": "Springer",
+    "year": "2022",
+    "accreditationMapping": "NBA-C5"
+  }
+]

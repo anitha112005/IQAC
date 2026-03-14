@@ -1,23 +1,31 @@
-// backend/src/routes/aiRoutes.js
-
-import express from "express";
-import { protect } from "../middleware/authMiddleware.js";
+// aiRoutes.js — 8 AI-powered routes for IQAC system
+import { Router } from "express";
+import { protect, authorize } from "../middleware/authMiddleware.js";
 import {
-  generatePDF,
-  studentIntervention,
-  departmentRanking,
+  studentProgressReport,
+  departmentPerformanceReport,
+  cgpaDistributionAnalysis,
+  backlogAnalysisReport,
+  placementForecastReport,
+  facultyContributionReport,
+  accreditationReadinessAssessment,
   naturalLanguageSearch,
-  placementForecast
+  streamingSearch
 } from "../controllers/aiController.js";
 
-const router = express.Router();
+const router = Router();
 
+// All routes require authentication
 router.use(protect);
 
-router.post("/generate-pdf", generatePDF);
-router.get("/student-intervention/:id", studentIntervention);
-router.get("/department-ranking", departmentRanking);
-router.post("/search", naturalLanguageSearch);
-router.post("/placement-forecast", placementForecast);
+router.post("/student-progress-report",   authorize("admin", "hod"), studentProgressReport);
+router.post("/department-performance",     authorize("admin", "hod"), departmentPerformanceReport);
+router.get("/cgpa-distribution",           authorize("admin", "hod", "faculty"), cgpaDistributionAnalysis);
+router.post("/backlog-analysis",           authorize("admin", "hod"), backlogAnalysisReport);
+router.post("/placement-forecast",         authorize("admin", "hod"), placementForecastReport);
+router.post("/faculty-contribution",       authorize("admin", "hod", "faculty"), facultyContributionReport);
+router.get("/accreditation-readiness",     authorize("admin", "hod"), accreditationReadinessAssessment);
+router.post("/search",                     authorize("admin", "hod", "faculty"), naturalLanguageSearch);
+router.post("/search-stream",              authorize("admin", "hod", "faculty"), streamingSearch);
 
 export default router;

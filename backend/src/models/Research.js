@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const researchSchema = new mongoose.Schema(
   {
@@ -17,4 +18,4 @@ const researchSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("Research", researchSchema);
+export default mainDB.model("Research", researchSchema);

@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const placementSchema = new mongoose.Schema(
   {
@@ -16,4 +17,4 @@ const placementSchema = new mongoose.Schema(
 
 placementSchema.index({ department: 1, academicYear: 1 }, { unique: true });
 
-export default mongoose.model("Placement", placementSchema);
+export default mainDB.model("Placement", placementSchema);
