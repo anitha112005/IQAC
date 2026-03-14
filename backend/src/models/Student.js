@@ -18,6 +18,7 @@ const studentSchema = new mongoose.Schema(
     name: { type: String, required: true, trim: true },
     email: { type: String, required: true, lowercase: true, trim: true },
     department: { type: mongoose.Schema.Types.ObjectId, ref: "Department", required: true },
+    section: { type: mongoose.Schema.Types.ObjectId, ref: "Section" },
     currentSemester: { type: Number, required: true },
     batch: { type: String, required: true },
     metrics: [semesterMetricSchema],

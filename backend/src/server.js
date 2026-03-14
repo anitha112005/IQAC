@@ -12,6 +12,7 @@ import facultyRoutes from "./routes/facultyRoutes.js";
 import analyticsRoutes from "./routes/analyticsRoutes.js";
 import reportRoutes from "./routes/reportRoutes.js";
 import accreditationRoutes from "./routes/accreditationRoutes.js";
+import adminRoutes from "./routes/adminRoutes.js";
 
 dotenv.config();
 
@@ -34,6 +35,7 @@ app.use("/api/faculty", facultyRoutes);
 app.use("/api/analytics", analyticsRoutes);
 app.use("/api/reports", reportRoutes);
 app.use("/api/accreditation", accreditationRoutes);
+app.use("/api/admin", adminRoutes);
 
 app.use((err, _, res, __) => {
   res.status(err.status || 500).json({
