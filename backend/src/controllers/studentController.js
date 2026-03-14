@@ -37,7 +37,7 @@ export const listStudents = async (req, res) => {
   if (riskLevel) filter.riskLevel = riskLevel;
   if (search) filter.$or = [{ name: { $regex: search, $options: "i" } }, { rollNo: { $regex: search, $options: "i" } }];
 
-  const students = await Student.find(filter).populate("department", "name code").sort({ createdAt: -1 });
+  const students = await Student.find(filter).populate("department", "name code").populate("section", "name code").sort({ createdAt: -1 });
 
   const enriched = students.filter((student) => {
     if (!academicYear && !semester) return true;
@@ -122,12 +122,28 @@ export const getStudentDashboard = async (req, res) => {
     riskLevel: student.riskLevel
   };
 
+  const recommendation =
+    student.riskLevel === "HIGH"
+      ? "Immediate mentoring recommended: focus on attendance recovery, subject remedial sessions, and weekly progress reviews."
+      : student.riskLevel === "MEDIUM"
+        ? "Track closely with bi-weekly faculty reviews and improve consistency in attendance and internal marks."
+        : "Maintain current academic momentum with advanced learning goals and placement-focused preparation.";
+
+  const semesterPerformance = student.metrics.map((m) => ({
+    semester: m.semester,
+    sgpa: m.sgpa,
+    cgpa: m.cgpa,
+    attendancePercent: m.attendancePercent,
+    backlogCount: m.backlogCount
+  }));
+
   return res.status(200).json({
     success: true,
     data: {
       student,
       overview,
       cgpaTrend: student.metrics.map((m) => ({ semester: m.semester, cgpa: m.cgpa })),
+      semesterPerformance,
       attendance,
       attendanceBySubject: semesterAttendance?.subjects || [],
       marks,
@@ -161,7 +177,8 @@ export const getStudentDashboard = async (req, res) => {
         address: student.address || ""
       },
       backlogBySemester: student.metrics.map((m) => ({ semester: m.semester, backlogCount: m.backlogCount })),
-      riskLevel: student.riskLevel
+      riskLevel: student.riskLevel,
+      recommendation
     }
   });
 };
