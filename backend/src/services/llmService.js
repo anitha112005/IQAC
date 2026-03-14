@@ -1,153 +1,124 @@
 // backend/src/services/llmService.js
 
-const OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
-const MODEL = "openai/gpt-4o-mini";
+const OLLAMA_URL = "http://127.0.0.1:11434/api/generate";
 
-const callLLM = async (prompt, maxTokens = 250) => {
+export const callMistral = async (prompt) => {
   try {
-    const response = await fetch(OPENROUTER_URL, {
+    const response = await fetch(OLLAMA_URL, {
       method: "POST",
-      headers: {
-        "Authorization": `Bearer ${process.env.OPENROUTER_API_KEY}`,
-        "Content-Type": "application/json",
-        "HTTP-Referer": "http://localhost:5000"
-      },
+      headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        model: MODEL,
-        messages: [{ role: "user", content: prompt }],
-        max_tokens: maxTokens
+        model: "mistral:latest",
+        prompt: prompt,
+        stream: false
       })
     });
     const data = await response.json();
-    return data.choices?.[0]?.message?.content || "AI analysis unavailable.";
+    return data.response;
   } catch (err) {
-    console.error("LLM call failed:", err.message);
-    return "AI analysis unavailable. Core data is accurate.";
+    console.error("Mistral API error:", err);
+    return "AI unavailable";
   }
 };
 
-// ── 1. Accreditation Report Analysis ─────────────────────────
-export const generateAccreditationAnalysis = async (metrics) => {
-  const prompt = `
-You are an IQAC coordinator writing a formal NBA accreditation report.
+export const generatePDFCode = async (data) => {
+  const prompt = `You are a Python developer. Write a complete Python script using fpdf2 library to generate a professional IQAC NBA accreditation report PDF.
 
 Department Data:
-- Average CGPA: ${metrics.averageCgpa}
-- Pass Percentage: ${metrics.avgPassPercent}%
-- Placement Rate: ${metrics.placementRate}%
-- Research Publications: ${metrics.researchPublications}
-- High Risk Students: ${metrics.highRisk}
-- Total Students: ${metrics.totalStudents}
+- Department: ${data.department}
+- Academic Year: ${data.academicYear}
+- Average CGPA: ${data.averageCgpa}
+- Pass Percentage: ${data.passPercent}%
+- Placement Rate: ${data.placementRate}%
+- High Risk Students: ${data.highRisk}
+- Total Students: ${data.totalStudents}
+- Research Publications: ${data.researchPublications}
+- NBA Readiness Score: ${data.readinessScore}%
+- At Risk Students: ${JSON.stringify(data.atRiskStudents)}
+- Top Recruiters: ${data.recruiters}
 
-Write a formal 100-word NBA accreditation assessment covering:
-1. Overall academic health (2 sentences)
-2. Accreditation readiness — MEETS or FAILS key criteria (1 sentence)
-3. Single most critical improvement needed (1 sentence)
+The PDF must have:
+1. Centered title: IQAC Department Performance Report
+2. Department and academic year header
+3. Metrics table with all values above
+4. At-risk students table with name, CGPA, attendance, backlogs
+5. Formal NBA assessment paragraph
+6. Save to: output/iqac_report.pdf
 
-Use formal academic language. No bullet points.
-`;
-  return await callLLM(prompt, 300);
+Output ONLY raw Python code. 
+No markdown. No backticks. No explanation.`;
+  return await callMistral(prompt);
 };
 
-// ── 2. Student Intervention Advice ───────────────────────────
 export const generateStudentIntervention = async (student) => {
-  const latest = student.metrics?.at(-1) || {};
-  const prompt = `
-Student academic profile:
-- Name: ${student.name}
-- Department: ${student.department?.name || "N/A"}
-- Current Semester: ${student.currentSemester}
-- CGPA: ${latest.cgpa}
-- Attendance: ${latest.attendancePercent}%
-- Backlogs: ${latest.backlogCount}
-- Risk Level: ${student.riskLevel}
+  const prompt = `You are an academic advisor writing a formal intervention plan.
 
-Write a 3-sentence personalized intervention plan 
-for this student's faculty advisor.
-Be specific, actionable, and use formal academic language.
-`;
-  return await callLLM(prompt, 150);
+Student Profile:
+- Name: ${student.name}
+- Department: ${student.department}
+- Semester: ${student.currentSemester}
+- Current CGPA: ${student.cgpa}
+- Attendance: ${student.attendance}%
+- Backlogs: ${student.backlogs}
+- Risk Level: ${student.riskLevel}
+- CGPA Trend: ${student.cgpaTrend}
+
+Write exactly 3 sentences:
+Sentence 1: Describe the academic situation using numbers.
+Sentence 2: Give one specific immediate action for faculty.
+Sentence 3: Give one long-term recommendation.
+
+Use formal academic language. No bullet points.`;
+  return await callMistral(prompt);
 };
 
-// ── 3. Department Ranking with Reasoning ─────────────────────
 export const generateDepartmentRanking = async (departments) => {
-  const deptSummary = departments.map(d =>
-    `${d.department}: CGPA=${d.averageCgpa}, Pass%=${d.passPercent}, Placements=${d.placementRate}%`
+  const deptStr = departments.map(d => 
+    `${d.name}: Avg CGPA ${d.averageCgpa}, Pass% ${d.passPercent}, Placement% ${d.placementRate}, Research ${d.researchPublications}, High Risk ${d.highRiskCount}`
   ).join("\n");
 
-  const prompt = `
-Rank these university departments by NBA accreditation readiness:
+  const prompt = `Rank these university departments by NBA accreditation readiness. Use the data below:
 
-${deptSummary}
+${deptStr}
 
-Respond in exactly this format:
-Rank 1: [Department] — [one specific reason]
-Rank 2: [Department] — [one specific reason]
-Rank 3: [Department] — [one specific reason]
-Critical weakness of bottom department: [one sentence]
-
-Maximum 80 words total.
-`;
-  return await callLLM(prompt, 200);
+Respond in EXACTLY this format, nothing else:
+Rank 1: [name] — [one specific reason with a number]
+Rank 2: [name] — [one specific reason with a number]  
+Rank 3: [name] — [one specific reason with a number]
+Rank 4: [name] — [one specific reason with a number]
+Rank 5: [name] — [one specific reason with a number]
+Critical weakness: [bottom department one sentence fix]`;
+  return await callMistral(prompt);
 };
 
-// ── 4. Natural Language Search ────────────────────────────────
 export const answerNaturalLanguageQuery = async (question, dataSummary) => {
-  const prompt = `
-You are an IQAC data assistant.
-Academic data available: ${JSON.stringify(dataSummary)}
-Question: "${question}"
+  const prompt = `You are an IQAC data assistant with access to this academic database summary:
+${JSON.stringify(dataSummary, null, 2)}
 
-Answer using only the data above.
-Maximum 2 sentences. Include specific numbers.
-If insufficient data, say "Insufficient data to answer."
-`;
-  return await callLLM(prompt, 100);
-};
-
-// ── 5. Placement Forecast ─────────────────────────────────────
-export const generatePlacementForecast = async (historical) => {
-  const historyStr = Object.entries(historical)
-    .map(([year, count]) => `${year}: ${count} students placed`)
-    .join("\n");
-
-  const prompt = `
-University placement history:
-${historyStr}
-
-Based on this trend:
-1. Predict next year placement count (just the number)
-2. Explain trend in 20 words
-3. One recommendation to improve
-
-Keep total under 60 words.
-`;
-  return await callLLM(prompt, 120);
-};
-
-// ── 6. Generate PDF Python Code ───────────────────────────────
-export const generatePDFCode = async (contextData) => {
-  const prompt = `
-You are a Python developer. Generate a complete Python script using the 'fpdf2' library to create a professional IQAC academic report PDF.
-
-Use this data:
-${JSON.stringify(contextData, null, 2)}
-
-The PDF must include:
-1. Title: IQAC Department Performance Report
-2. Academic year and department name
-3. Key metrics table: Average CGPA, Pass Percentage, Placement Rate, High Risk Students, Research Publications
-4. NBA Accreditation Readiness score
-5. At-risk students list with name, CGPA, attendance, backlogs
-6. Placement summary with recruiter names
-7. Research publications list
-8. A formal AI-generated analysis paragraph at the bottom
+Answer this question using ONLY the data above:
+${question}
 
 Rules:
-- Use only fpdf2 library
-- Save the PDF to src/utils/output/iqac_report.pdf
-- No user input required, all data is hardcoded from the context above
-- Output ONLY the Python code, no explanation, no markdown, no backticks
-`;
-  return await callLLM(prompt, 1500); // Allow more tokens for python code
+- Maximum 2 sentences
+- Include specific numbers from the data
+- If data is insufficient say: Insufficient data to answer
+- No introduction, answer directly`;
+  return await callMistral(prompt);
+};
+
+export const generatePlacementForecast = async (departmentName, historical) => {
+  const histStr = Object.entries(historical).map(([year, count]) => `${year}: ${count}`).join("\n");
+  const prompt = `Analyze placement trends for ${departmentName} department:
+${histStr}
+
+Provide:
+1. Predicted placement count for 2024-25 (just the number)
+2. Trend explanation in exactly 20 words
+3. One specific recommendation to improve placements
+
+Format exactly as:
+Prediction: [number]
+Trend: [20 words]
+Recommendation: [one sentence]`;
+  return await callMistral(prompt);
 };

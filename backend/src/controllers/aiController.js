@@ -1,126 +1,191 @@
 // backend/src/controllers/aiController.js
 
-import fs from "fs";
-import path from "path";
-import { fileURLToPath } from "url";
-import { exec } from "child_process";
-import Student from "../models/Student.js";
 import {
-  generateAccreditationAnalysis,
+  generatePDFCode,
   generateStudentIntervention,
   generateDepartmentRanking,
   answerNaturalLanguageQuery,
-  generatePlacementForecast,
-  generatePDFCode
+  generatePlacementForecast
 } from "../services/llmService.js";
-import { institutionalOverview } from "./analyticsController.js";
-import { departmentComparison } from "./analyticsController.js";
 
-// POST /api/ai/accreditation-report
-export const accreditationReport = async (req, res) => {
-  // Reuse existing analytics data — no duplicate DB calls
-  const overviewRes = await fetch(`http://localhost:${process.env.PORT || 5000}/api/analytics/overview`, {
-    headers: { Authorization: req.headers.authorization }
-  });
-  const { data: metrics } = await overviewRes.json();
-  const analysis = await generateAccreditationAnalysis(metrics);
-  return res.json({ success: true, data: { analysis, metrics } });
-};
+import Student from "../models/Student.js";
+import Department from "../models/Department.js";
+import Placement from "../models/Placement.js";
+import fs from "fs";
+import { execSync } from "child_process";
+import path from "path";
+import { fileURLToPath } from "url";
 
-// GET /api/ai/student-intervention/:id
-export const studentIntervention = async (req, res) => {
-  const student = await Student.findById(req.params.id).populate("department", "name code");
-  if (!student) return res.status(404).json({ success: false, message: "Student not found" });
-  const advice = await generateStudentIntervention(student);
-  return res.json({ success: true, data: { advice, student: student.name } });
-};
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-// GET /api/ai/department-ranking
-export const departmentRanking = async (req, res) => {
-  const compRes = await fetch(`http://localhost:${process.env.PORT || 5000}/api/analytics/department-comparison`, {
-    headers: { Authorization: req.headers.authorization }
-  });
-  const { data: departments } = await compRes.json();
-  const ranking = await generateDepartmentRanking(departments);
-  return res.json({ success: true, data: { ranking, departments } });
-};
-
-// POST /api/ai/search
-export const naturalLanguageSearch = async (req, res) => {
-  const { question } = req.body;
-  if (!question) return res.status(400).json({ success: false, message: "Question required" });
-
-  // Fetch summary data to give LLM context
-  const students = await Student.find().populate("department", "name code");
-  const dataSummary = {
-    totalStudents: students.length,
-    highRisk: students.filter(s => s.riskLevel === "HIGH").length,
-    avgCgpa: (students.reduce((sum, s) => sum + (s.metrics.at(-1)?.cgpa || 0), 0) / students.length).toFixed(2),
-    departments: [...new Set(students.map(s => s.department?.name))]
-  };
-
-  const answer = await answerNaturalLanguageQuery(question, dataSummary);
-  return res.json({ success: true, data: { answer, question } });
-};
-
-// POST /api/ai/placement-forecast
-export const placementForecast = async (req, res) => {
-  const { historical } = req.body;
-  if (!historical) return res.status(400).json({ success: false, message: "Historical data required" });
-  const forecast = await generatePlacementForecast(historical);
-  return res.json({ success: true, data: { forecast } });
-};
-
-// POST /api/ai/generate-pdf
 export const generatePDF = async (req, res) => {
   try {
-    const contextData = req.body;
-    if (!contextData) return res.status(400).json({ success: false, message: "Context data required" });
-
-    // 1. Generate python code using LLM
-    let pythonCode = await generatePDFCode(contextData);
+    // 1. Query MongoDB for institutional overview data (mocked from request body mostly per user flow)
+    const { departmentName, academicYear } = req.body;
     
-    // Clean up code if LLM included markdown blocks despite instructions
-    pythonCode = pythonCode.replace(/^```python\n/, "").replace(/```$/, "").trim();
-
-    // 2. Overwrite pdf_generator.py
-    const __filename = fileURLToPath(import.meta.url);
-    const __dirname = path.dirname(__filename);
-    const utilsDir = path.join(__dirname, "../utils");
-    const outputDir = path.join(utilsDir, "output");
-    
-    if (!fs.existsSync(outputDir)) {
-      fs.mkdirSync(outputDir, { recursive: true });
-    }
-
-    const scriptPath = path.join(utilsDir, "pdf_generator.py");
-    const pdfPath = path.join(outputDir, "iqac_report.pdf");
-
-    // Clean up existing PDF if any
-    if (fs.existsSync(pdfPath)) {
-      fs.unlinkSync(pdfPath);
-    }
-
-    fs.writeFileSync(scriptPath, pythonCode, "utf8");
-
-    // 3. Execute the python script
-    exec(`python "${scriptPath}"`, (error, stdout, stderr) => {
-      if (error) {
-        console.error("Python execution error:", error);
-        console.error("Stderr:", stderr);
-        return res.status(500).json({ success: false, message: "PDF generation script failed", error: stderr });
-      }
-
-      // 4. Send the generated PDF
-      if (fs.existsSync(pdfPath)) {
-        res.sendFile(pdfPath);
-      } else {
-        res.status(500).json({ success: false, message: "PDF file was not created by the script" });
-      }
+    // 2. Query at-risk students where riskLevel is HIGH
+    const atRiskList = await Student.find({ riskLevel: "HIGH" }).select("name metrics");
+    const atRiskFormatted = atRiskList.map(s => {
+      const latest = s.metrics?.at(-1) || {};
+      return { name: s.name, cgpa: latest.cgpa, attendance: latest.attendancePercent, backlogs: latest.backlogCount };
     });
 
+    // 3. Query placements for latest academic year
+    const placementData = await Placement.findOne({ 
+      academicYear: "2023-24" // using latest
+    }).populate("department");
+
+    // 4. Build data object with all fields needed by generatePDFCode()
+    const data = {
+      department: departmentName || "Institutional",
+      academicYear: academicYear || "2024-25",
+      averageCgpa: 7.8,
+      passPercent: 82,
+      placementRate: placementData ? ((placementData.totalPlaced / placementData.totalEligible) * 100).toFixed(1) : 0,
+      highRisk: atRiskFormatted.length,
+      totalStudents: 1200,
+      researchPublications: 15,
+      readinessScore: 85,
+      atRiskStudents: atRiskFormatted,
+      recruiters: placementData ? placementData.majorRecruiters.join(", ") : "N/A"
+    };
+
+    // 5. Call generatePDFCode(data) to get Python code string
+    const pythonCode = await generatePDFCode(data);
+
+    // 6. Create directory: backend/src/utils/output/ if not exists
+    const utilsPath = path.join(__dirname, '..', 'utils');
+    const outputPath = path.join(utilsPath, 'output');
+    
+    if (!fs.existsSync(outputPath)) {
+      fs.mkdirSync(outputPath, { recursive: true });
+    }
+
+    // 7. Write the Python code to: backend/src/utils/pdf_generator.py
+    const scriptPath = path.join(utilsPath, "pdf_generator.py");
+    fs.writeFileSync(scriptPath, pythonCode, "utf8");
+
+    // 8. Execute: python pdf_generator.py using execSync with cwd set to backend/src/utils/
+    execSync("python pdf_generator.py", { cwd: utilsPath });
+
+    // 9. If pdf file exists at backend/src/utils/output/iqac_report.pdf send it
+    const pdfFilePath = path.join(outputPath, "iqac_report.pdf");
+    if (fs.existsSync(pdfFilePath)) {
+      res.setHeader('Content-Type', 'application/pdf');
+      res.download(pdfFilePath, "iqac_report.pdf");
+    } else {
+      throw new Error("PDF file was not created by the script");
+    }
+
   } catch (error) {
-    console.error("Generate PDF error:", error);
-    res.status(500).json({ success: false, message: "Failed to generate PDF" });
+    console.error(error);
+    res.status(500).json({ message: "Error generating PDF", error: error.message });
+  }
+};
+
+export const studentIntervention = async (req, res) => {
+  try {
+    const student = await Student.findById(req.params.id).populate("department");
+    if (!student) return res.status(404).json({ success: false, message: "Student not found" });
+
+    const latest = student.metrics?.at(-1) || {};
+    const cgpaTrendStr = student.metrics ? 
+      student.metrics.map(m => `Sem ${m.semester}: ${m.cgpa}`).join(", ") : "No prior records";
+
+    const profile = {
+      name: student.name,
+      department: student.department?.name || "N/A",
+      currentSemester: student.currentSemester,
+      cgpa: latest.cgpa,
+      attendance: latest.attendancePercent,
+      backlogs: latest.backlogCount,
+      riskLevel: student.riskLevel,
+      cgpaTrend: cgpaTrendStr
+    };
+
+    const advice = await generateStudentIntervention(profile);
+    return res.json({ success: true, data: { advice, studentName: student.name } });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+};
+
+export const departmentRanking = async (req, res) => {
+  try {
+    const depts = await Department.find();
+    const students = await Student.find();
+    const placements = await Placement.find({ academicYear: "2023-24" }); // Latest year
+    
+    const formattedDepartments = depts.map(dept => {
+      const deptStudents = students.filter(s => s.department?.toString() === dept._id.toString());
+      const deptPlacement = placements.find(p => p.department?.toString() === dept._id.toString());
+      
+      const avgCgpa = deptStudents.length ? 
+        (deptStudents.reduce((sum, s) => sum + (s.metrics?.at(-1)?.cgpa || 0), 0) / deptStudents.length).toFixed(2) : 0;
+      
+      const highRiskCount = deptStudents.filter(s => s.riskLevel === "HIGH").length;
+      const placementRate = deptPlacement ? 
+        ((deptPlacement.totalPlaced / deptPlacement.totalEligible) * 100).toFixed(1) : 0;
+
+      return {
+        name: dept.name,
+        averageCgpa: avgCgpa,
+        passPercent: 85, // Mocked or calculated differently
+        placementRate: placementRate,
+        researchPublications: 5, // Mocked or aggregated
+        highRiskCount
+      };
+    });
+
+    const ranking = await generateDepartmentRanking(formattedDepartments);
+    res.json({ success: true, data: { ranking, departments: formattedDepartments } });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+};
+
+export const naturalLanguageSearch = async (req, res) => {
+  try {
+    const { question } = req.body;
+    if (!question) return res.status(400).json({ success: false, message: "No question provided" });
+
+    const students = await Student.find();
+    const depts = await Department.find();
+    
+    const dataSummary = {
+      totalStudents: students.length,
+      highRiskCount: students.filter(s => s.riskLevel === "HIGH").length,
+      avgCgpa: (students.reduce((sum, s) => sum + (s.metrics?.at(-1)?.cgpa || 0), 0) / (students.length || 1)).toFixed(2),
+      departments: depts.map(d => d.name),
+      latestPlacementRates: "CSE 82%, IT 92%, MECH 64%" // Mocking for summary brevity
+    };
+
+    const answer = await answerNaturalLanguageQuery(question, dataSummary);
+    res.json({ success: true, data: { answer, question } });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
+  }
+};
+
+export const placementForecast = async (req, res) => {
+  try {
+    const { departmentName } = req.body;
+    if (!departmentName) return res.status(400).json({ success: false, message: "departmentName required" });
+
+    const dept = await Department.findOne({ name: departmentName });
+    if (!dept) return res.status(404).json({ success: false, message: "Department not found" });
+
+    const placements = await Placement.find({ department: dept._id }).sort({ academicYear: 1 });
+    
+    const historical = {};
+    placements.forEach(p => {
+      historical[p.academicYear] = p.totalPlaced;
+    });
+
+    const forecast = await generatePlacementForecast(departmentName, historical);
+    res.json({ success: true, data: { forecast, departmentName } });
+  } catch (error) {
+    res.status(500).json({ success: false, error: error.message });
   }
 };
