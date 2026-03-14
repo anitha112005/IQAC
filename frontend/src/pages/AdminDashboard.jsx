@@ -10,6 +10,52 @@ export default function AdminDashboard() {
   const [readiness, setReadiness] = useState(null);
   const [reportType, setReportType] = useState("DEPARTMENT_PERFORMANCE");
 
+  const [aiAnalysis, setAiAnalysis] = useState("");
+  const [aiLoading, setAiLoading] = useState(false);
+  const [pdfLoading, setPdfLoading] = useState(false);
+
+  const generateAIReport = async () => {
+    setAiLoading(true);
+    try {
+      const res = await client.post("/ai/accreditation-report");
+      setAiAnalysis(res.data.data.analysis);
+    } catch {
+      setAiAnalysis("AI analysis unavailable.");
+    }
+    setAiLoading(false);
+  };
+
+  const generateAIPDF = async () => {
+    setPdfLoading(true);
+    try {
+      // Gather context data from current state
+      const contextData = {
+        overview,
+        comparison,
+        readiness,
+        aiAnalysis
+      };
+
+      const response = await client.post(
+        "/ai/generate-pdf",
+        contextData,
+        { responseType: "blob" }
+      );
+
+      const blob = new Blob([response.data], { type: "application/pdf" });
+      const url = window.URL.createObjectURL(blob);
+      const anchor = document.createElement("a");
+      anchor.href = url;
+      anchor.download = "IQAC_AI_Generated_Report.pdf";
+      anchor.click();
+      window.URL.revokeObjectURL(url);
+    } catch (err) {
+      console.error("PDF generation failed", err);
+      alert("Failed to generate PDF. Check console.");
+    }
+    setPdfLoading(false);
+  };
+
   useEffect(() => {
     const load = async () => {
       const [overviewRes, comparisonRes, readinessRes] = await Promise.all([
@@ -80,6 +126,36 @@ export default function AdminDashboard() {
             Download Excel
           </button>
         </div>
+      </section>
+
+      <section className="rounded-2xl border border-purple-200 bg-purple-50 p-6">
+        <div className="flex items-center justify-between mb-4">
+          <h3 className="font-heading text-lg text-brand-ink">
+            AI-Generated NBA Accreditation Analysis
+          </h3>
+          <button
+            onClick={generateAIReport}
+            disabled={aiLoading}
+            className="rounded-lg bg-purple-600 px-4 py-2 text-sm text-white hover:bg-purple-700 disabled:opacity-50"
+          >
+            {aiLoading ? "Analyzing..." : "Generate AI Report"}
+          </button>
+          <button
+            onClick={generateAIPDF}
+            disabled={pdfLoading}
+            className="rounded-lg bg-indigo-600 px-4 py-2 text-sm text-white hover:bg-indigo-700 disabled:opacity-50"
+          >
+            {pdfLoading ? "Generating PDF..." : "Download AI PDF"}
+          </button>
+        </div>
+        {aiAnalysis && (
+          <p className="text-sm leading-7 text-brand-ink/80">{aiAnalysis}</p>
+        )}
+        {!aiAnalysis && (
+          <p className="text-sm text-brand-ink/50">
+            Click Generate to get AI-powered NBA accreditation assessment.
+          </p>
+        )}
       </section>
     </div>
   );
