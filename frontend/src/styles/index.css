@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700&family=Sora:wght@500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color: #112a46;
+  font-family: "Manrope", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+.bg-pattern {
+  background:
+    radial-gradient(circle at 20% 10%, rgba(102, 209, 193, 0.25), transparent 30%),
+    radial-gradient(circle at 80% 0%, rgba(255, 107, 53, 0.22), transparent 36%),
+    linear-gradient(165deg, #f8f1e9 0%, #eef8ff 55%, #e8fff8 100%);
+}
+
+input,
+select,
+textarea,
+button {
+  font-family: inherit;
+}
+
+.landing-orb {
+  position: absolute;
+  border-radius: 9999px;
+  filter: blur(48px);
+  opacity: 0.6;
+  animation: float-orb 8s ease-in-out infinite;
+}
+
+.landing-orb-a {
+  top: -4rem;
+  left: -2rem;
+  width: 14rem;
+  height: 14rem;
+  background: #ff7b54;
+}
+
+.landing-orb-b {
+  top: 6rem;
+  right: -2rem;
+  width: 16rem;
+  height: 16rem;
+  background: #00b4d8;
+  animation-delay: 1.8s;
+}
+
+.landing-orb-c {
+  bottom: -5rem;
+  left: 30%;
+  width: 18rem;
+  height: 18rem;
+  background: #95d5b2;
+  animation-delay: 1.2s;
+}
+
+.landing-card {
+  opacity: 0;
+  transform: translateY(14px);
+  animation: card-in 640ms ease forwards;
+}
+
+@keyframes float-orb {
+  0%,
+  100% {
+    transform: translateY(0px) translateX(0px) scale(1);
+  }
+  50% {
+    transform: translateY(-16px) translateX(10px) scale(1.06);
+  }
+}
+
+@keyframes card-in {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
