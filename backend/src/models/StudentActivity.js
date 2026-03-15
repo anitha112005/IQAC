@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const studentActivitySchema = new mongoose.Schema(
   {
@@ -16,4 +17,4 @@ const studentActivitySchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("StudentActivity", studentActivitySchema);
+export default mainDB.model("StudentActivity", studentActivitySchema);

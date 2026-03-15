@@ -1,0 +1,98 @@
+[
+  {
+    "empId": "FAC001",
+    "name": "Dr Santhosh Reddy",
+    "role": "Dean",
+    "department": "ALL"
+  },
+  {
+    "empId": "FAC002",
+    "name": "Dr Ravi Devi",
+    "role": "HOD",
+    "department": "CSE"
+  },
+  {
+    "empId": "FAC003",
+    "name": "Dr Kiran Naidu",
+    "role": "Faculty",
+    "department": "CSE"
+  },
+  {
+    "empId": "FAC004",
+    "name": "Dr Mounika Rao",
+    "role": "Faculty",
+    "department": "CSE"
+  },
+  {
+    "empId": "FAC005",
+    "name": "Dr Lakshmi Reddy",
+    "role": "Faculty",
+    "department": "CSE"
+  },
+  {
+    "empId": "FAC006",
+    "name": "Dr Santhosh Devi",
+    "role": "Faculty",
+    "department": "CSE"
+  },
+  {
+    "empId": "FAC007",
+    "name": "Dr Haritha Reddy",
+    "role": "HOD",
+    "department": "ECE"
+  },
+  {
+    "empId": "FAC008",
+    "name": "Dr Pavani Teja",
+    "role": "Faculty",
+    "department": "ECE"
+  },
+  {
+    "empId": "FAC009",
+    "name": "Dr Ravi Kumar",
+    "role": "Faculty",
+    "department": "ECE"
+  },
+  {
+    "empId": "FAC010",
+    "name": "Dr Priya Naidu",
+    "role": "Faculty",
+    "department": "ECE"
+  },
+  {
+    "empId": "FAC011",
+    "name": "Dr Mounika Chowdary",
+    "role": "Faculty",
+    "department": "ECE"
+  },
+  {
+    "empId": "FAC012",
+    "name": "Dr Pavani Kumar",
+    "role": "HOD",
+    "department": "MECH"
+  },
+  {
+    "empId": "FAC013",
+    "name": "Dr Haritha Naidu",
+    "role": "Faculty",
+    "department": "MECH"
+  },
+  {
+    "empId": "FAC014",
+    "name": "Dr Lakshmi Charan",
+    "role": "Faculty",
+    "department": "MECH"
+  },
+  {
+    "empId": "FAC015",
+    "name": "Dr Lakshmi Chowdary",
+    "role": "Faculty",
+    "department": "MECH"
+  },
+  {
+    "empId": "FAC016",
+    "name": "Dr Sai Naidu",
+    "role": "Faculty",
+    "department": "MECH"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "deptId": "CSE",
+    "deptName": "CSE Engineering"
+  },
+  {
+    "deptId": "ECE",
+    "deptName": "ECE Engineering"
+  },
+  {
+    "deptId": "MECH",
+    "deptName": "MECH Engineering"
+  }
+]

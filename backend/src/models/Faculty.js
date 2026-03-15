@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const facultySchema = new mongoose.Schema(
   {
@@ -37,4 +38,4 @@ const facultySchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("Faculty", facultySchema);
+export default mainDB.model("Faculty", facultySchema);

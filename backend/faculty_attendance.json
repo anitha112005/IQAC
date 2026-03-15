@@ -1,0 +1,290 @@
+[
+  {
+    "empId": "FAC001",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 22
+  },
+  {
+    "empId": "FAC001",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC001",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC002",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC002",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 22
+  },
+  {
+    "empId": "FAC002",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC003",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC003",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC003",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC004",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC004",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC004",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC005",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 22
+  },
+  {
+    "empId": "FAC005",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC005",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC006",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC006",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC006",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC007",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 22
+  },
+  {
+    "empId": "FAC007",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC007",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 22
+  },
+  {
+    "empId": "FAC008",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC008",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC008",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC009",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC009",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC009",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC010",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC010",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC010",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC011",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC011",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC011",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 22
+  },
+  {
+    "empId": "FAC012",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC012",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 22
+  },
+  {
+    "empId": "FAC012",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC013",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC013",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC013",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC014",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC014",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  },
+  {
+    "empId": "FAC014",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 19
+  },
+  {
+    "empId": "FAC015",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC015",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC015",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 20
+  },
+  {
+    "empId": "FAC016",
+    "month": "Aug 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 22
+  },
+  {
+    "empId": "FAC016",
+    "month": "Sep 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 22
+  },
+  {
+    "empId": "FAC016",
+    "month": "Oct 2024",
+    "totalWorkingDays": 22,
+    "daysPresent": 21
+  }
+]

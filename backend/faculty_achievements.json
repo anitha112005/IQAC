@@ -1,0 +1,68 @@
+[
+  {
+    "empId": "FAC001",
+    "achievementType": "Award",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC002",
+    "achievementType": "Award",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC004",
+    "achievementType": "Grant",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC005",
+    "achievementType": "Patent",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC008",
+    "achievementType": "Grant",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC009",
+    "achievementType": "Award",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC012",
+    "achievementType": "Grant",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC013",
+    "achievementType": "Grant",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC014",
+    "achievementType": "Grant",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC015",
+    "achievementType": "Grant",
+    "title": "Research Excellence",
+    "year": "2024"
+  },
+  {
+    "empId": "FAC016",
+    "achievementType": "Grant",
+    "title": "Research Excellence",
+    "year": "2024"
+  }
+]

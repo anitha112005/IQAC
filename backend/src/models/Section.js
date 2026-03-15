@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const sectionSchema = new mongoose.Schema(
   {
@@ -13,4 +14,4 @@ const sectionSchema = new mongoose.Schema(
 
 sectionSchema.index({ department: 1, name: 1, semester: 1, academicYear: 1 }, { unique: true });
 
-export default mongoose.model("Section", sectionSchema);
+export default mainDB.model("Section", sectionSchema);

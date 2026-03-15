@@ -3,7 +3,8 @@ import axios from "axios";
 const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:5000/api";
 
 const client = axios.create({
-  baseURL: API_BASE
+  baseURL: API_BASE,
+  timeout: 180000  // 3 minutes — needed for local Mistral LLM responses
 });
 
 client.interceptors.request.use((config) => {

@@ -1,0 +1,2746 @@
+[
+  {
+    "rollNo": "STU1001",
+    "semester": 1,
+    "sgpa": 8.22,
+    "cgpa": 6.61,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1001",
+    "semester": 2,
+    "sgpa": 6.6,
+    "cgpa": 6.61,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1001",
+    "semester": 3,
+    "sgpa": 5.26,
+    "cgpa": 5.94,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1001",
+    "semester": 4,
+    "sgpa": 8.65,
+    "cgpa": 7.29,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1001",
+    "semester": 5,
+    "sgpa": 7.27,
+    "cgpa": 7.28,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1001",
+    "semester": 6,
+    "sgpa": 7.87,
+    "cgpa": 7.58,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 1,
+    "sgpa": 6.69,
+    "cgpa": 5.85,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 2,
+    "sgpa": 5.25,
+    "cgpa": 5.55,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 3,
+    "sgpa": 6.53,
+    "cgpa": 6.04,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 4,
+    "sgpa": 8.98,
+    "cgpa": 7.51,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 5,
+    "sgpa": 7.12,
+    "cgpa": 7.31,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 6,
+    "sgpa": 8.88,
+    "cgpa": 8.1,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 7,
+    "sgpa": 8.44,
+    "cgpa": 8.27,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 1,
+    "sgpa": 8.67,
+    "cgpa": 6.83,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 2,
+    "sgpa": 7.4,
+    "cgpa": 7.12,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 3,
+    "sgpa": 6.95,
+    "cgpa": 7.04,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 4,
+    "sgpa": 5.45,
+    "cgpa": 6.25,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 5,
+    "sgpa": 6.45,
+    "cgpa": 6.35,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 1,
+    "sgpa": 5.48,
+    "cgpa": 5.24,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 2,
+    "sgpa": 5.9,
+    "cgpa": 5.57,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 3,
+    "sgpa": 6.35,
+    "cgpa": 5.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 4,
+    "sgpa": 7.35,
+    "cgpa": 6.65,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 5,
+    "sgpa": 5.92,
+    "cgpa": 6.29,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 6,
+    "sgpa": 5.88,
+    "cgpa": 6.08,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 1,
+    "sgpa": 6.87,
+    "cgpa": 5.94,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 2,
+    "sgpa": 7.92,
+    "cgpa": 6.93,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 3,
+    "sgpa": 7.69,
+    "cgpa": 7.31,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 4,
+    "sgpa": 8.94,
+    "cgpa": 8.12,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 5,
+    "sgpa": 5.39,
+    "cgpa": 6.75,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 1,
+    "sgpa": 8.61,
+    "cgpa": 6.8,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 2,
+    "sgpa": 5.66,
+    "cgpa": 6.23,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 3,
+    "sgpa": 5.01,
+    "cgpa": 5.62,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 4,
+    "sgpa": 6.56,
+    "cgpa": 6.09,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 5,
+    "sgpa": 8.71,
+    "cgpa": 7.4,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1007",
+    "semester": 1,
+    "sgpa": 5.27,
+    "cgpa": 5.13,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1008",
+    "semester": 1,
+    "sgpa": 6.83,
+    "cgpa": 5.92,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1008",
+    "semester": 2,
+    "sgpa": 8.72,
+    "cgpa": 7.32,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1008",
+    "semester": 3,
+    "sgpa": 8.74,
+    "cgpa": 8.03,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 1,
+    "sgpa": 8.56,
+    "cgpa": 6.78,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 2,
+    "sgpa": 7.97,
+    "cgpa": 7.38,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 3,
+    "sgpa": 5.62,
+    "cgpa": 6.5,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 4,
+    "sgpa": 6.13,
+    "cgpa": 6.31,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 5,
+    "sgpa": 5.84,
+    "cgpa": 6.07,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 6,
+    "sgpa": 6.37,
+    "cgpa": 6.22,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 7,
+    "sgpa": 7.75,
+    "cgpa": 6.98,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 8,
+    "sgpa": 8.41,
+    "cgpa": 7.7,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 1,
+    "sgpa": 5.17,
+    "cgpa": 5.08,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 2,
+    "sgpa": 6.46,
+    "cgpa": 5.77,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 3,
+    "sgpa": 8.73,
+    "cgpa": 7.25,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 4,
+    "sgpa": 8.89,
+    "cgpa": 8.07,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 5,
+    "sgpa": 5.16,
+    "cgpa": 6.62,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1011",
+    "semester": 1,
+    "sgpa": 5.43,
+    "cgpa": 5.21,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1011",
+    "semester": 2,
+    "sgpa": 8.49,
+    "cgpa": 6.85,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1011",
+    "semester": 3,
+    "sgpa": 8.43,
+    "cgpa": 7.64,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1011",
+    "semester": 4,
+    "sgpa": 5.89,
+    "cgpa": 6.76,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 1,
+    "sgpa": 5.15,
+    "cgpa": 5.08,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 2,
+    "sgpa": 7.39,
+    "cgpa": 6.23,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 3,
+    "sgpa": 6.38,
+    "cgpa": 6.3,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 4,
+    "sgpa": 8.15,
+    "cgpa": 7.22,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 5,
+    "sgpa": 6.75,
+    "cgpa": 6.98,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 6,
+    "sgpa": 8.94,
+    "cgpa": 7.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 7,
+    "sgpa": 5.46,
+    "cgpa": 6.71,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1013",
+    "semester": 1,
+    "sgpa": 7.22,
+    "cgpa": 6.11,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1013",
+    "semester": 2,
+    "sgpa": 5.77,
+    "cgpa": 5.94,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1013",
+    "semester": 3,
+    "sgpa": 7.66,
+    "cgpa": 6.8,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1013",
+    "semester": 4,
+    "sgpa": 6.52,
+    "cgpa": 6.66,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1014",
+    "semester": 1,
+    "sgpa": 7.48,
+    "cgpa": 6.24,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 1,
+    "sgpa": 7.07,
+    "cgpa": 6.04,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 2,
+    "sgpa": 5.2,
+    "cgpa": 5.62,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 3,
+    "sgpa": 6.0,
+    "cgpa": 5.81,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 4,
+    "sgpa": 8.39,
+    "cgpa": 7.1,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 5,
+    "sgpa": 6.83,
+    "cgpa": 6.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 6,
+    "sgpa": 8.21,
+    "cgpa": 7.59,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 7,
+    "sgpa": 7.67,
+    "cgpa": 7.63,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 1,
+    "sgpa": 5.93,
+    "cgpa": 5.46,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 2,
+    "sgpa": 7.78,
+    "cgpa": 6.62,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 3,
+    "sgpa": 7.83,
+    "cgpa": 7.22,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 4,
+    "sgpa": 5.26,
+    "cgpa": 6.24,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 5,
+    "sgpa": 6.63,
+    "cgpa": 6.44,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 6,
+    "sgpa": 7.17,
+    "cgpa": 6.8,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 1,
+    "sgpa": 6.34,
+    "cgpa": 5.67,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 2,
+    "sgpa": 7.72,
+    "cgpa": 6.7,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 3,
+    "sgpa": 6.62,
+    "cgpa": 6.66,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 4,
+    "sgpa": 5.66,
+    "cgpa": 6.16,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 5,
+    "sgpa": 6.87,
+    "cgpa": 6.52,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 6,
+    "sgpa": 5.51,
+    "cgpa": 6.01,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 1,
+    "sgpa": 7.6,
+    "cgpa": 6.3,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 2,
+    "sgpa": 8.12,
+    "cgpa": 7.21,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 3,
+    "sgpa": 7.61,
+    "cgpa": 7.41,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 4,
+    "sgpa": 8.02,
+    "cgpa": 7.71,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 5,
+    "sgpa": 8.8,
+    "cgpa": 8.26,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 6,
+    "sgpa": 5.8,
+    "cgpa": 7.03,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 7,
+    "sgpa": 5.08,
+    "cgpa": 6.05,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 8,
+    "sgpa": 5.61,
+    "cgpa": 5.83,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 1,
+    "sgpa": 5.3,
+    "cgpa": 5.15,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 2,
+    "sgpa": 7.76,
+    "cgpa": 6.46,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 3,
+    "sgpa": 7.51,
+    "cgpa": 6.98,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 4,
+    "sgpa": 5.41,
+    "cgpa": 6.2,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 5,
+    "sgpa": 8.09,
+    "cgpa": 7.14,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 6,
+    "sgpa": 8.4,
+    "cgpa": 7.77,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 7,
+    "sgpa": 7.4,
+    "cgpa": 7.58,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 8,
+    "sgpa": 5.48,
+    "cgpa": 6.53,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1020",
+    "semester": 1,
+    "sgpa": 8.32,
+    "cgpa": 6.66,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1020",
+    "semester": 2,
+    "sgpa": 5.35,
+    "cgpa": 6.0,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1020",
+    "semester": 3,
+    "sgpa": 8.53,
+    "cgpa": 7.26,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1020",
+    "semester": 4,
+    "sgpa": 5.98,
+    "cgpa": 6.62,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 1,
+    "sgpa": 7.76,
+    "cgpa": 6.38,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 2,
+    "sgpa": 7.58,
+    "cgpa": 6.98,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 3,
+    "sgpa": 6.96,
+    "cgpa": 6.97,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 4,
+    "sgpa": 8.17,
+    "cgpa": 7.57,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 5,
+    "sgpa": 5.37,
+    "cgpa": 6.47,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 1,
+    "sgpa": 5.87,
+    "cgpa": 5.44,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 2,
+    "sgpa": 6.94,
+    "cgpa": 6.19,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 3,
+    "sgpa": 7.9,
+    "cgpa": 7.04,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 4,
+    "sgpa": 8.91,
+    "cgpa": 7.97,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 5,
+    "sgpa": 7.1,
+    "cgpa": 7.54,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 6,
+    "sgpa": 6.13,
+    "cgpa": 6.83,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1023",
+    "semester": 1,
+    "sgpa": 6.36,
+    "cgpa": 5.68,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 1,
+    "sgpa": 8.63,
+    "cgpa": 6.82,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 2,
+    "sgpa": 6.19,
+    "cgpa": 6.51,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 3,
+    "sgpa": 7.35,
+    "cgpa": 6.93,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 4,
+    "sgpa": 6.72,
+    "cgpa": 6.82,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 5,
+    "sgpa": 7.27,
+    "cgpa": 7.04,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 6,
+    "sgpa": 5.24,
+    "cgpa": 6.14,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 7,
+    "sgpa": 8.84,
+    "cgpa": 7.49,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 8,
+    "sgpa": 5.4,
+    "cgpa": 6.45,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1025",
+    "semester": 1,
+    "sgpa": 8.7,
+    "cgpa": 6.85,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1025",
+    "semester": 2,
+    "sgpa": 8.15,
+    "cgpa": 7.5,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1025",
+    "semester": 3,
+    "sgpa": 7.5,
+    "cgpa": 7.5,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1025",
+    "semester": 4,
+    "sgpa": 7.64,
+    "cgpa": 7.57,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1026",
+    "semester": 1,
+    "sgpa": 5.32,
+    "cgpa": 5.16,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1026",
+    "semester": 2,
+    "sgpa": 5.16,
+    "cgpa": 5.16,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1026",
+    "semester": 3,
+    "sgpa": 6.73,
+    "cgpa": 5.95,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1026",
+    "semester": 4,
+    "sgpa": 6.29,
+    "cgpa": 6.12,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1027",
+    "semester": 1,
+    "sgpa": 7.77,
+    "cgpa": 6.38,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1027",
+    "semester": 2,
+    "sgpa": 6.15,
+    "cgpa": 6.27,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1028",
+    "semester": 1,
+    "sgpa": 5.52,
+    "cgpa": 5.26,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1028",
+    "semester": 2,
+    "sgpa": 6.15,
+    "cgpa": 5.71,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1028",
+    "semester": 3,
+    "sgpa": 8.52,
+    "cgpa": 7.12,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1028",
+    "semester": 4,
+    "sgpa": 6.94,
+    "cgpa": 7.03,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1029",
+    "semester": 1,
+    "sgpa": 7.03,
+    "cgpa": 6.02,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1030",
+    "semester": 1,
+    "sgpa": 7.29,
+    "cgpa": 6.14,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1030",
+    "semester": 2,
+    "sgpa": 5.93,
+    "cgpa": 6.04,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1030",
+    "semester": 3,
+    "sgpa": 8.1,
+    "cgpa": 7.07,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1030",
+    "semester": 4,
+    "sgpa": 5.17,
+    "cgpa": 6.12,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 1,
+    "sgpa": 6.35,
+    "cgpa": 5.67,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 2,
+    "sgpa": 7.77,
+    "cgpa": 6.72,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 3,
+    "sgpa": 7.6,
+    "cgpa": 7.16,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 4,
+    "sgpa": 8.41,
+    "cgpa": 7.79,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 5,
+    "sgpa": 8.41,
+    "cgpa": 8.1,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 6,
+    "sgpa": 8.44,
+    "cgpa": 8.27,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1032",
+    "semester": 1,
+    "sgpa": 6.17,
+    "cgpa": 5.58,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1033",
+    "semester": 1,
+    "sgpa": 5.04,
+    "cgpa": 5.02,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 1,
+    "sgpa": 8.91,
+    "cgpa": 6.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 2,
+    "sgpa": 7.63,
+    "cgpa": 7.29,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 3,
+    "sgpa": 6.1,
+    "cgpa": 6.7,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 4,
+    "sgpa": 7.26,
+    "cgpa": 6.98,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 5,
+    "sgpa": 7.74,
+    "cgpa": 7.36,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 6,
+    "sgpa": 7.98,
+    "cgpa": 7.67,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 1,
+    "sgpa": 5.8,
+    "cgpa": 5.4,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 2,
+    "sgpa": 8.15,
+    "cgpa": 6.78,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 3,
+    "sgpa": 8.51,
+    "cgpa": 7.64,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 4,
+    "sgpa": 6.46,
+    "cgpa": 7.05,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 5,
+    "sgpa": 7.01,
+    "cgpa": 7.03,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 1,
+    "sgpa": 8.76,
+    "cgpa": 6.88,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 2,
+    "sgpa": 5.43,
+    "cgpa": 6.15,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 3,
+    "sgpa": 5.94,
+    "cgpa": 6.04,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 4,
+    "sgpa": 5.1,
+    "cgpa": 5.57,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 5,
+    "sgpa": 8.54,
+    "cgpa": 7.05,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 6,
+    "sgpa": 7.25,
+    "cgpa": 7.15,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 7,
+    "sgpa": 8.66,
+    "cgpa": 7.91,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 8,
+    "sgpa": 5.89,
+    "cgpa": 6.9,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1037",
+    "semester": 1,
+    "sgpa": 8.76,
+    "cgpa": 6.88,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 1,
+    "sgpa": 5.97,
+    "cgpa": 5.48,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 2,
+    "sgpa": 5.5,
+    "cgpa": 5.49,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 3,
+    "sgpa": 7.26,
+    "cgpa": 6.38,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 4,
+    "sgpa": 5.27,
+    "cgpa": 5.82,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 5,
+    "sgpa": 8.06,
+    "cgpa": 6.94,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 6,
+    "sgpa": 5.83,
+    "cgpa": 6.38,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 7,
+    "sgpa": 5.86,
+    "cgpa": 6.12,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1039",
+    "semester": 1,
+    "sgpa": 7.1,
+    "cgpa": 6.05,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1039",
+    "semester": 2,
+    "sgpa": 7.98,
+    "cgpa": 7.02,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1039",
+    "semester": 3,
+    "sgpa": 6.9,
+    "cgpa": 6.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1040",
+    "semester": 1,
+    "sgpa": 5.26,
+    "cgpa": 5.13,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1040",
+    "semester": 2,
+    "sgpa": 6.1,
+    "cgpa": 5.62,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1041",
+    "semester": 1,
+    "sgpa": 8.81,
+    "cgpa": 6.91,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 1,
+    "sgpa": 5.85,
+    "cgpa": 5.42,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 2,
+    "sgpa": 7.63,
+    "cgpa": 6.53,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 3,
+    "sgpa": 5.9,
+    "cgpa": 6.21,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 4,
+    "sgpa": 5.43,
+    "cgpa": 5.82,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 5,
+    "sgpa": 8.38,
+    "cgpa": 7.1,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 6,
+    "sgpa": 6.47,
+    "cgpa": 6.79,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 7,
+    "sgpa": 8.05,
+    "cgpa": 7.42,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 8,
+    "sgpa": 7.3,
+    "cgpa": 7.36,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 1,
+    "sgpa": 6.36,
+    "cgpa": 5.68,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 2,
+    "sgpa": 6.48,
+    "cgpa": 6.08,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 3,
+    "sgpa": 7.89,
+    "cgpa": 6.98,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 4,
+    "sgpa": 8.11,
+    "cgpa": 7.54,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 5,
+    "sgpa": 7.27,
+    "cgpa": 7.4,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 6,
+    "sgpa": 5.34,
+    "cgpa": 6.37,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 7,
+    "sgpa": 5.21,
+    "cgpa": 5.79,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1044",
+    "semester": 1,
+    "sgpa": 8.94,
+    "cgpa": 6.97,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1044",
+    "semester": 2,
+    "sgpa": 5.22,
+    "cgpa": 6.09,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1044",
+    "semester": 3,
+    "sgpa": 5.82,
+    "cgpa": 5.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1044",
+    "semester": 4,
+    "sgpa": 8.78,
+    "cgpa": 7.37,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1045",
+    "semester": 1,
+    "sgpa": 7.29,
+    "cgpa": 6.14,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1046",
+    "semester": 1,
+    "sgpa": 5.46,
+    "cgpa": 5.23,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1046",
+    "semester": 2,
+    "sgpa": 7.04,
+    "cgpa": 6.13,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1046",
+    "semester": 3,
+    "sgpa": 8.62,
+    "cgpa": 7.38,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1047",
+    "semester": 1,
+    "sgpa": 6.21,
+    "cgpa": 5.61,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1047",
+    "semester": 2,
+    "sgpa": 6.1,
+    "cgpa": 5.86,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1047",
+    "semester": 3,
+    "sgpa": 5.22,
+    "cgpa": 5.54,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1047",
+    "semester": 4,
+    "sgpa": 7.03,
+    "cgpa": 6.29,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1048",
+    "semester": 1,
+    "sgpa": 8.93,
+    "cgpa": 6.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1048",
+    "semester": 2,
+    "sgpa": 5.34,
+    "cgpa": 6.15,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1048",
+    "semester": 3,
+    "sgpa": 7.58,
+    "cgpa": 6.87,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1048",
+    "semester": 4,
+    "sgpa": 5.16,
+    "cgpa": 6.02,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1049",
+    "semester": 1,
+    "sgpa": 7.65,
+    "cgpa": 6.33,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1049",
+    "semester": 2,
+    "sgpa": 8.67,
+    "cgpa": 7.5,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 1,
+    "sgpa": 5.62,
+    "cgpa": 5.31,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 2,
+    "sgpa": 6.18,
+    "cgpa": 5.74,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 3,
+    "sgpa": 8.15,
+    "cgpa": 6.95,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 4,
+    "sgpa": 7.03,
+    "cgpa": 6.99,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 5,
+    "sgpa": 7.16,
+    "cgpa": 7.08,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1051",
+    "semester": 1,
+    "sgpa": 8.94,
+    "cgpa": 6.97,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1051",
+    "semester": 2,
+    "sgpa": 6.85,
+    "cgpa": 6.91,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1051",
+    "semester": 3,
+    "sgpa": 6.13,
+    "cgpa": 6.52,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1051",
+    "semester": 4,
+    "sgpa": 6.53,
+    "cgpa": 6.53,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1052",
+    "semester": 1,
+    "sgpa": 8.27,
+    "cgpa": 6.63,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1052",
+    "semester": 2,
+    "sgpa": 8.54,
+    "cgpa": 7.58,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1052",
+    "semester": 3,
+    "sgpa": 8.72,
+    "cgpa": 8.15,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1052",
+    "semester": 4,
+    "sgpa": 6.66,
+    "cgpa": 7.41,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1053",
+    "semester": 1,
+    "sgpa": 8.34,
+    "cgpa": 6.67,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1053",
+    "semester": 2,
+    "sgpa": 7.2,
+    "cgpa": 6.94,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 1,
+    "sgpa": 7.28,
+    "cgpa": 6.14,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 2,
+    "sgpa": 5.75,
+    "cgpa": 5.95,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 3,
+    "sgpa": 7.67,
+    "cgpa": 6.81,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 4,
+    "sgpa": 7.09,
+    "cgpa": 6.95,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 5,
+    "sgpa": 6.44,
+    "cgpa": 6.7,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1055",
+    "semester": 1,
+    "sgpa": 5.73,
+    "cgpa": 5.37,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1055",
+    "semester": 2,
+    "sgpa": 5.54,
+    "cgpa": 5.46,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1055",
+    "semester": 3,
+    "sgpa": 7.86,
+    "cgpa": 6.66,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1056",
+    "semester": 1,
+    "sgpa": 6.76,
+    "cgpa": 5.88,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1056",
+    "semester": 2,
+    "sgpa": 8.83,
+    "cgpa": 7.36,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1056",
+    "semester": 3,
+    "sgpa": 6.36,
+    "cgpa": 6.86,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1056",
+    "semester": 4,
+    "sgpa": 5.75,
+    "cgpa": 6.3,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1057",
+    "semester": 1,
+    "sgpa": 8.48,
+    "cgpa": 6.74,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1058",
+    "semester": 1,
+    "sgpa": 6.8,
+    "cgpa": 5.9,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1058",
+    "semester": 2,
+    "sgpa": 6.48,
+    "cgpa": 6.19,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1058",
+    "semester": 3,
+    "sgpa": 6.78,
+    "cgpa": 6.49,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1058",
+    "semester": 4,
+    "sgpa": 5.31,
+    "cgpa": 5.9,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1059",
+    "semester": 1,
+    "sgpa": 8.59,
+    "cgpa": 6.79,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1059",
+    "semester": 2,
+    "sgpa": 6.78,
+    "cgpa": 6.79,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1059",
+    "semester": 3,
+    "sgpa": 5.35,
+    "cgpa": 6.07,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1059",
+    "semester": 4,
+    "sgpa": 7.73,
+    "cgpa": 6.9,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 1,
+    "sgpa": 8.21,
+    "cgpa": 6.61,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 2,
+    "sgpa": 7.21,
+    "cgpa": 6.91,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 3,
+    "sgpa": 7.45,
+    "cgpa": 7.18,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 4,
+    "sgpa": 5.34,
+    "cgpa": 6.26,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 5,
+    "sgpa": 6.24,
+    "cgpa": 6.25,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 6,
+    "sgpa": 9.0,
+    "cgpa": 7.62,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1061",
+    "semester": 1,
+    "sgpa": 5.65,
+    "cgpa": 5.33,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1062",
+    "semester": 1,
+    "sgpa": 8.08,
+    "cgpa": 6.54,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1062",
+    "semester": 2,
+    "sgpa": 6.06,
+    "cgpa": 6.3,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1062",
+    "semester": 3,
+    "sgpa": 5.84,
+    "cgpa": 6.07,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 1,
+    "sgpa": 8.9,
+    "cgpa": 6.95,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 2,
+    "sgpa": 5.52,
+    "cgpa": 6.23,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 3,
+    "sgpa": 6.48,
+    "cgpa": 6.36,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 4,
+    "sgpa": 7.25,
+    "cgpa": 6.8,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 5,
+    "sgpa": 6.28,
+    "cgpa": 6.54,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 6,
+    "sgpa": 6.87,
+    "cgpa": 6.71,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1064",
+    "semester": 1,
+    "sgpa": 8.78,
+    "cgpa": 6.89,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1064",
+    "semester": 2,
+    "sgpa": 7.02,
+    "cgpa": 6.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1065",
+    "semester": 1,
+    "sgpa": 7.28,
+    "cgpa": 6.14,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1065",
+    "semester": 2,
+    "sgpa": 5.78,
+    "cgpa": 5.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1065",
+    "semester": 3,
+    "sgpa": 7.21,
+    "cgpa": 6.58,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1065",
+    "semester": 4,
+    "sgpa": 5.29,
+    "cgpa": 5.94,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 1,
+    "sgpa": 7.43,
+    "cgpa": 6.21,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 2,
+    "sgpa": 7.06,
+    "cgpa": 6.63,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 3,
+    "sgpa": 6.31,
+    "cgpa": 6.47,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 4,
+    "sgpa": 7.45,
+    "cgpa": 6.96,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 5,
+    "sgpa": 5.65,
+    "cgpa": 6.3,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 6,
+    "sgpa": 8.96,
+    "cgpa": 7.63,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 7,
+    "sgpa": 7.96,
+    "cgpa": 7.79,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 1,
+    "sgpa": 7.48,
+    "cgpa": 6.24,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 2,
+    "sgpa": 8.36,
+    "cgpa": 7.3,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 3,
+    "sgpa": 5.59,
+    "cgpa": 6.45,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 4,
+    "sgpa": 7.72,
+    "cgpa": 7.08,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 5,
+    "sgpa": 5.13,
+    "cgpa": 6.11,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 1,
+    "sgpa": 8.83,
+    "cgpa": 6.92,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 2,
+    "sgpa": 6.84,
+    "cgpa": 6.88,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 3,
+    "sgpa": 7.13,
+    "cgpa": 7.0,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 4,
+    "sgpa": 7.19,
+    "cgpa": 7.1,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 5,
+    "sgpa": 7.7,
+    "cgpa": 7.4,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 6,
+    "sgpa": 8.47,
+    "cgpa": 7.94,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1069",
+    "semester": 1,
+    "sgpa": 8.82,
+    "cgpa": 6.91,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1069",
+    "semester": 2,
+    "sgpa": 5.32,
+    "cgpa": 6.12,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1070",
+    "semester": 1,
+    "sgpa": 5.02,
+    "cgpa": 5.01,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1070",
+    "semester": 2,
+    "sgpa": 7.2,
+    "cgpa": 6.11,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1071",
+    "semester": 1,
+    "sgpa": 7.27,
+    "cgpa": 6.13,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1072",
+    "semester": 1,
+    "sgpa": 8.59,
+    "cgpa": 6.79,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1072",
+    "semester": 2,
+    "sgpa": 8.31,
+    "cgpa": 7.55,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1072",
+    "semester": 3,
+    "sgpa": 7.06,
+    "cgpa": 7.3,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1072",
+    "semester": 4,
+    "sgpa": 5.35,
+    "cgpa": 6.32,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 1,
+    "sgpa": 7.74,
+    "cgpa": 6.37,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 2,
+    "sgpa": 8.69,
+    "cgpa": 7.53,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 3,
+    "sgpa": 8.55,
+    "cgpa": 8.04,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 4,
+    "sgpa": 8.08,
+    "cgpa": 8.06,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 5,
+    "sgpa": 7.76,
+    "cgpa": 7.91,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 1,
+    "sgpa": 8.67,
+    "cgpa": 6.83,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 2,
+    "sgpa": 5.45,
+    "cgpa": 6.14,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 3,
+    "sgpa": 8.32,
+    "cgpa": 7.23,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 4,
+    "sgpa": 8.61,
+    "cgpa": 7.92,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 5,
+    "sgpa": 5.81,
+    "cgpa": 6.87,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1075",
+    "semester": 1,
+    "sgpa": 7.98,
+    "cgpa": 6.49,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1075",
+    "semester": 2,
+    "sgpa": 7.31,
+    "cgpa": 6.9,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 1,
+    "sgpa": 6.57,
+    "cgpa": 5.79,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 2,
+    "sgpa": 5.51,
+    "cgpa": 5.65,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 3,
+    "sgpa": 8.91,
+    "cgpa": 7.28,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 4,
+    "sgpa": 8.34,
+    "cgpa": 7.81,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 5,
+    "sgpa": 8.02,
+    "cgpa": 7.91,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 6,
+    "sgpa": 8.91,
+    "cgpa": 8.41,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 7,
+    "sgpa": 6.85,
+    "cgpa": 7.63,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 1,
+    "sgpa": 8.49,
+    "cgpa": 6.75,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 2,
+    "sgpa": 5.98,
+    "cgpa": 6.37,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 3,
+    "sgpa": 5.18,
+    "cgpa": 5.78,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 4,
+    "sgpa": 6.76,
+    "cgpa": 6.27,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 5,
+    "sgpa": 7.16,
+    "cgpa": 6.71,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 6,
+    "sgpa": 8.02,
+    "cgpa": 7.37,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 7,
+    "sgpa": 8.1,
+    "cgpa": 7.73,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 1,
+    "sgpa": 6.67,
+    "cgpa": 5.83,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 2,
+    "sgpa": 5.6,
+    "cgpa": 5.71,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 3,
+    "sgpa": 6.51,
+    "cgpa": 6.11,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 4,
+    "sgpa": 8.02,
+    "cgpa": 7.06,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 5,
+    "sgpa": 6.89,
+    "cgpa": 6.97,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 6,
+    "sgpa": 8.4,
+    "cgpa": 7.69,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 7,
+    "sgpa": 6.2,
+    "cgpa": 6.95,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 8,
+    "sgpa": 7.83,
+    "cgpa": 7.39,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 1,
+    "sgpa": 7.9,
+    "cgpa": 6.45,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 2,
+    "sgpa": 7.24,
+    "cgpa": 6.85,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 3,
+    "sgpa": 6.92,
+    "cgpa": 6.88,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 4,
+    "sgpa": 8.48,
+    "cgpa": 7.68,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 5,
+    "sgpa": 6.33,
+    "cgpa": 7.0,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 6,
+    "sgpa": 8.83,
+    "cgpa": 7.92,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 7,
+    "sgpa": 5.06,
+    "cgpa": 6.49,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 8,
+    "sgpa": 8.75,
+    "cgpa": 7.62,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1080",
+    "semester": 1,
+    "sgpa": 6.25,
+    "cgpa": 5.62,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1080",
+    "semester": 2,
+    "sgpa": 5.18,
+    "cgpa": 5.4,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1081",
+    "semester": 1,
+    "sgpa": 7.19,
+    "cgpa": 6.1,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1081",
+    "semester": 2,
+    "sgpa": 5.74,
+    "cgpa": 5.92,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1082",
+    "semester": 1,
+    "sgpa": 5.07,
+    "cgpa": 5.04,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1082",
+    "semester": 2,
+    "sgpa": 7.89,
+    "cgpa": 6.46,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 1,
+    "sgpa": 8.04,
+    "cgpa": 6.52,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 2,
+    "sgpa": 5.37,
+    "cgpa": 5.95,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 3,
+    "sgpa": 6.52,
+    "cgpa": 6.23,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 4,
+    "sgpa": 7.21,
+    "cgpa": 6.72,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 5,
+    "sgpa": 5.22,
+    "cgpa": 5.97,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 1,
+    "sgpa": 5.58,
+    "cgpa": 5.29,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 2,
+    "sgpa": 8.28,
+    "cgpa": 6.79,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 3,
+    "sgpa": 8.28,
+    "cgpa": 7.54,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 4,
+    "sgpa": 8.72,
+    "cgpa": 8.13,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 5,
+    "sgpa": 6.2,
+    "cgpa": 7.17,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 6,
+    "sgpa": 7.26,
+    "cgpa": 7.21,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 7,
+    "sgpa": 7.27,
+    "cgpa": 7.24,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1085",
+    "semester": 1,
+    "sgpa": 7.72,
+    "cgpa": 6.36,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1085",
+    "semester": 2,
+    "sgpa": 7.64,
+    "cgpa": 7.0,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 1,
+    "sgpa": 7.05,
+    "cgpa": 6.03,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 2,
+    "sgpa": 5.41,
+    "cgpa": 5.72,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 3,
+    "sgpa": 5.36,
+    "cgpa": 5.54,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 4,
+    "sgpa": 7.22,
+    "cgpa": 6.38,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 5,
+    "sgpa": 7.39,
+    "cgpa": 6.88,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 6,
+    "sgpa": 8.14,
+    "cgpa": 7.51,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 7,
+    "sgpa": 8.45,
+    "cgpa": 7.98,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1087",
+    "semester": 1,
+    "sgpa": 8.78,
+    "cgpa": 6.89,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1087",
+    "semester": 2,
+    "sgpa": 7.88,
+    "cgpa": 7.38,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 1,
+    "sgpa": 7.78,
+    "cgpa": 6.39,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 2,
+    "sgpa": 6.96,
+    "cgpa": 6.67,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 3,
+    "sgpa": 7.3,
+    "cgpa": 6.98,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 4,
+    "sgpa": 5.97,
+    "cgpa": 6.47,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 5,
+    "sgpa": 6.5,
+    "cgpa": 6.48,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 6,
+    "sgpa": 8.27,
+    "cgpa": 7.38,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1089",
+    "semester": 1,
+    "sgpa": 5.3,
+    "cgpa": 5.15,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1089",
+    "semester": 2,
+    "sgpa": 8.96,
+    "cgpa": 7.06,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1089",
+    "semester": 3,
+    "sgpa": 6.92,
+    "cgpa": 6.99,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 1,
+    "sgpa": 7.3,
+    "cgpa": 6.15,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 2,
+    "sgpa": 6.78,
+    "cgpa": 6.46,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 3,
+    "sgpa": 6.56,
+    "cgpa": 6.51,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 4,
+    "sgpa": 8.09,
+    "cgpa": 7.3,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 5,
+    "sgpa": 7.35,
+    "cgpa": 7.32,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 6,
+    "sgpa": 7.0,
+    "cgpa": 7.16,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 7,
+    "sgpa": 6.38,
+    "cgpa": 6.77,
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 8,
+    "sgpa": 5.1,
+    "cgpa": 5.93,
+    "academicYear": "2024-25"
+  }
+]

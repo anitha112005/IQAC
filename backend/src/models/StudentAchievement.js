@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const studentAchievementSchema = new mongoose.Schema(
   {
@@ -17,4 +18,4 @@ const studentAchievementSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("StudentAchievement", studentAchievementSchema);
+export default mainDB.model("StudentAchievement", studentAchievementSchema);

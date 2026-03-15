@@ -1,42 +1,48 @@
 import mongoose from "mongoose";
+import dotenv from "dotenv";
 
-export const connectDB = async () => {
-  try {
-    let mongoUri = process.env.MONGO_URI;
+dotenv.config();
 
-    if (!mongoUri) {
-      throw new Error("MONGO_URI is missing in backend/.env");
-    }
-
-    const hasPasswordPlaceholder = mongoUri.includes("<db_password>");
-    const hasUsernamePlaceholder = mongoUri.includes("<db_username>");
-
-    if (hasPasswordPlaceholder) {
-      const password = process.env.DB_PASSWORD;
-      if (!password) {
-        throw new Error(
-          "Atlas password not configured. Set DB_PASSWORD in backend/.env or replace <db_password> in MONGO_URI."
-        );
-      }
-
-      mongoUri = mongoUri.replace("<db_password>", encodeURIComponent(password));
-    }
-
-    if (hasUsernamePlaceholder) {
-      const username = process.env.DB_USERNAME;
-      if (!username) {
-        throw new Error(
-          "Atlas username not configured. Set DB_USERNAME in backend/.env or replace <db_username> in MONGO_URI."
-        );
-      }
-
-      mongoUri = mongoUri.replace("<db_username>", encodeURIComponent(username));
-    }
-
-    await mongoose.connect(mongoUri);
-    console.log("MongoDB connected");
-  } catch (error) {
-    console.error("DB connection failed", error.message);
-    process.exit(1);
+// === 1. Prepare Main IQAC Database URI ===
+let mainUri = process.env.MONGO_URI;
+if (mainUri) {
+  if (mainUri.includes("<db_password>")) {
+    mainUri = mainUri.replace("<db_password>", encodeURIComponent(process.env.DB_PASSWORD || ""));
   }
+  if (mainUri.includes("<db_username>")) {
+    mainUri = mainUri.replace("<db_username>", encodeURIComponent(process.env.DB_USERNAME || ""));
+  }
+} else {
+  console.warn("⚠️ MONGO_URI is missing in backend/.env!");
+}
+
+// === 2. Prepare Attendance Database URI ===
+let attUri = process.env.ATTENDANCE_MONGO_URI;
+if (attUri && attUri.includes("<attendance_db_password>")) {
+  attUri = attUri.replace("<attendance_db_password>", encodeURIComponent(process.env.ATTENDANCE_DB_PASSWORD || ""));
+}
+
+// === 3. Export Top-Level Connections ===
+// These references are created immediately which solves the "Cannot read properties" crash
+export const mainDB = mainUri 
+    ? mongoose.createConnection(mainUri) 
+    : mongoose.createConnection(); // Fallback empty to avoid undefined crashes on load
+
+export const attendanceDB = attUri 
+    ? mongoose.createConnection(attUri) 
+    : null;
+
+// === 4. Connection Status Logger (called in server.js) ===
+export const connectDB = async () => {
+    if (mainUri) {
+        mainDB.on('connected', () => console.log("✅ Main IQAC MongoDB connected"));
+        mainDB.on('error', (err) => console.error("❌ Main DB Error:", err));
+    }
+
+    if (attendanceDB) {
+        attendanceDB.on('connected', () => console.log("✅ Attendance Patterns MongoDB connected"));
+        attendanceDB.on('error', (err) => console.error("❌ Attendance DB Error:", err));
+    } else {
+        console.warn("⚠️ Secondary ATTENDANCE DB Connection skipped.");
+    }
 };

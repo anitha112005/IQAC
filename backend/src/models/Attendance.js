@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const subjectAttendanceSchema = new mongoose.Schema(
   {
@@ -27,4 +28,4 @@ const attendanceSchema = new mongoose.Schema(
 
 attendanceSchema.index({ student: 1, semester: 1, academicYear: 1 }, { unique: true });
 
-export default mongoose.model("Attendance", attendanceSchema);
+export default mainDB.model("Attendance", attendanceSchema);

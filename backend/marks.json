@@ -1,0 +1,4502 @@
+[
+  {
+    "rollNo": "STU1001",
+    "semester": 6,
+    "subjectCode": "CSE101",
+    "internalMarks": 18,
+    "externalMarks": 28,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1001",
+    "semester": 6,
+    "subjectCode": "CSE102",
+    "internalMarks": 17,
+    "externalMarks": 67,
+    "totalMarks": 84,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1001",
+    "semester": 6,
+    "subjectCode": "CSE103",
+    "internalMarks": 27,
+    "externalMarks": 54,
+    "totalMarks": 81,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1001",
+    "semester": 6,
+    "subjectCode": "CSE104",
+    "internalMarks": 18,
+    "externalMarks": 67,
+    "totalMarks": 85,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1001",
+    "semester": 6,
+    "subjectCode": "CSE105",
+    "internalMarks": 28,
+    "externalMarks": 47,
+    "totalMarks": 75,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 7,
+    "subjectCode": "CSE101",
+    "internalMarks": 15,
+    "externalMarks": 49,
+    "totalMarks": 64,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 7,
+    "subjectCode": "CSE102",
+    "internalMarks": 10,
+    "externalMarks": 66,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 7,
+    "subjectCode": "CSE103",
+    "internalMarks": 18,
+    "externalMarks": 52,
+    "totalMarks": 70,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 7,
+    "subjectCode": "CSE104",
+    "internalMarks": 15,
+    "externalMarks": 52,
+    "totalMarks": 67,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1002",
+    "semester": 7,
+    "subjectCode": "CSE105",
+    "internalMarks": 13,
+    "externalMarks": 60,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 5,
+    "subjectCode": "CSE101",
+    "internalMarks": 12,
+    "externalMarks": 68,
+    "totalMarks": 80,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 5,
+    "subjectCode": "CSE102",
+    "internalMarks": 27,
+    "externalMarks": 69,
+    "totalMarks": 96,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 5,
+    "subjectCode": "CSE103",
+    "internalMarks": 14,
+    "externalMarks": 28,
+    "totalMarks": 42,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 5,
+    "subjectCode": "CSE104",
+    "internalMarks": 25,
+    "externalMarks": 55,
+    "totalMarks": 80,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1003",
+    "semester": 5,
+    "subjectCode": "CSE105",
+    "internalMarks": 15,
+    "externalMarks": 36,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 6,
+    "subjectCode": "CSE101",
+    "internalMarks": 12,
+    "externalMarks": 52,
+    "totalMarks": 64,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 6,
+    "subjectCode": "CSE102",
+    "internalMarks": 17,
+    "externalMarks": 37,
+    "totalMarks": 54,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 6,
+    "subjectCode": "CSE103",
+    "internalMarks": 25,
+    "externalMarks": 33,
+    "totalMarks": 58,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 6,
+    "subjectCode": "CSE104",
+    "internalMarks": 27,
+    "externalMarks": 28,
+    "totalMarks": 55,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1004",
+    "semester": 6,
+    "subjectCode": "CSE105",
+    "internalMarks": 28,
+    "externalMarks": 56,
+    "totalMarks": 84,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 5,
+    "subjectCode": "CSE101",
+    "internalMarks": 27,
+    "externalMarks": 48,
+    "totalMarks": 75,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 5,
+    "subjectCode": "CSE102",
+    "internalMarks": 14,
+    "externalMarks": 47,
+    "totalMarks": 61,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 5,
+    "subjectCode": "CSE103",
+    "internalMarks": 15,
+    "externalMarks": 37,
+    "totalMarks": 52,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 5,
+    "subjectCode": "CSE104",
+    "internalMarks": 24,
+    "externalMarks": 35,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1005",
+    "semester": 5,
+    "subjectCode": "CSE105",
+    "internalMarks": 12,
+    "externalMarks": 48,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 5,
+    "subjectCode": "CSE101",
+    "internalMarks": 16,
+    "externalMarks": 38,
+    "totalMarks": 54,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 5,
+    "subjectCode": "CSE102",
+    "internalMarks": 16,
+    "externalMarks": 23,
+    "totalMarks": 39,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 5,
+    "subjectCode": "CSE103",
+    "internalMarks": 28,
+    "externalMarks": 67,
+    "totalMarks": 95,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 5,
+    "subjectCode": "CSE104",
+    "internalMarks": 27,
+    "externalMarks": 23,
+    "totalMarks": 50,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1006",
+    "semester": 5,
+    "subjectCode": "CSE105",
+    "internalMarks": 20,
+    "externalMarks": 23,
+    "totalMarks": 43,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1007",
+    "semester": 1,
+    "subjectCode": "CSE101",
+    "internalMarks": 28,
+    "externalMarks": 58,
+    "totalMarks": 86,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1007",
+    "semester": 1,
+    "subjectCode": "CSE102",
+    "internalMarks": 11,
+    "externalMarks": 59,
+    "totalMarks": 70,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1007",
+    "semester": 1,
+    "subjectCode": "CSE103",
+    "internalMarks": 12,
+    "externalMarks": 46,
+    "totalMarks": 58,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1007",
+    "semester": 1,
+    "subjectCode": "CSE104",
+    "internalMarks": 28,
+    "externalMarks": 56,
+    "totalMarks": 84,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1007",
+    "semester": 1,
+    "subjectCode": "CSE105",
+    "internalMarks": 26,
+    "externalMarks": 40,
+    "totalMarks": 66,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1008",
+    "semester": 3,
+    "subjectCode": "CSE101",
+    "internalMarks": 14,
+    "externalMarks": 42,
+    "totalMarks": 56,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1008",
+    "semester": 3,
+    "subjectCode": "CSE102",
+    "internalMarks": 12,
+    "externalMarks": 35,
+    "totalMarks": 47,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1008",
+    "semester": 3,
+    "subjectCode": "CSE103",
+    "internalMarks": 21,
+    "externalMarks": 38,
+    "totalMarks": 59,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1008",
+    "semester": 3,
+    "subjectCode": "CSE104",
+    "internalMarks": 15,
+    "externalMarks": 48,
+    "totalMarks": 63,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1008",
+    "semester": 3,
+    "subjectCode": "CSE105",
+    "internalMarks": 27,
+    "externalMarks": 65,
+    "totalMarks": 92,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 8,
+    "subjectCode": "CSE101",
+    "internalMarks": 18,
+    "externalMarks": 22,
+    "totalMarks": 40,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 8,
+    "subjectCode": "CSE102",
+    "internalMarks": 10,
+    "externalMarks": 41,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 8,
+    "subjectCode": "CSE103",
+    "internalMarks": 14,
+    "externalMarks": 60,
+    "totalMarks": 74,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 8,
+    "subjectCode": "CSE104",
+    "internalMarks": 18,
+    "externalMarks": 30,
+    "totalMarks": 48,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1009",
+    "semester": 8,
+    "subjectCode": "CSE105",
+    "internalMarks": 24,
+    "externalMarks": 55,
+    "totalMarks": 79,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 5,
+    "subjectCode": "CSE101",
+    "internalMarks": 27,
+    "externalMarks": 46,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 5,
+    "subjectCode": "CSE102",
+    "internalMarks": 29,
+    "externalMarks": 67,
+    "totalMarks": 96,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 5,
+    "subjectCode": "CSE103",
+    "internalMarks": 14,
+    "externalMarks": 35,
+    "totalMarks": 49,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 5,
+    "subjectCode": "CSE104",
+    "internalMarks": 15,
+    "externalMarks": 31,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1010",
+    "semester": 5,
+    "subjectCode": "CSE105",
+    "internalMarks": 23,
+    "externalMarks": 21,
+    "totalMarks": 44,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1011",
+    "semester": 4,
+    "subjectCode": "CSE101",
+    "internalMarks": 16,
+    "externalMarks": 45,
+    "totalMarks": 61,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1011",
+    "semester": 4,
+    "subjectCode": "CSE102",
+    "internalMarks": 20,
+    "externalMarks": 37,
+    "totalMarks": 57,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1011",
+    "semester": 4,
+    "subjectCode": "CSE103",
+    "internalMarks": 12,
+    "externalMarks": 69,
+    "totalMarks": 81,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1011",
+    "semester": 4,
+    "subjectCode": "CSE104",
+    "internalMarks": 18,
+    "externalMarks": 42,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1011",
+    "semester": 4,
+    "subjectCode": "CSE105",
+    "internalMarks": 30,
+    "externalMarks": 52,
+    "totalMarks": 82,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 7,
+    "subjectCode": "CSE101",
+    "internalMarks": 26,
+    "externalMarks": 54,
+    "totalMarks": 80,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 7,
+    "subjectCode": "CSE102",
+    "internalMarks": 16,
+    "externalMarks": 43,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 7,
+    "subjectCode": "CSE103",
+    "internalMarks": 23,
+    "externalMarks": 24,
+    "totalMarks": 47,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 7,
+    "subjectCode": "CSE104",
+    "internalMarks": 20,
+    "externalMarks": 59,
+    "totalMarks": 79,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1012",
+    "semester": 7,
+    "subjectCode": "CSE105",
+    "internalMarks": 20,
+    "externalMarks": 62,
+    "totalMarks": 82,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1013",
+    "semester": 4,
+    "subjectCode": "CSE101",
+    "internalMarks": 16,
+    "externalMarks": 47,
+    "totalMarks": 63,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1013",
+    "semester": 4,
+    "subjectCode": "CSE102",
+    "internalMarks": 28,
+    "externalMarks": 58,
+    "totalMarks": 86,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1013",
+    "semester": 4,
+    "subjectCode": "CSE103",
+    "internalMarks": 30,
+    "externalMarks": 40,
+    "totalMarks": 70,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1013",
+    "semester": 4,
+    "subjectCode": "CSE104",
+    "internalMarks": 24,
+    "externalMarks": 48,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1013",
+    "semester": 4,
+    "subjectCode": "CSE105",
+    "internalMarks": 24,
+    "externalMarks": 63,
+    "totalMarks": 87,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1014",
+    "semester": 1,
+    "subjectCode": "CSE101",
+    "internalMarks": 11,
+    "externalMarks": 35,
+    "totalMarks": 46,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1014",
+    "semester": 1,
+    "subjectCode": "CSE102",
+    "internalMarks": 25,
+    "externalMarks": 59,
+    "totalMarks": 84,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1014",
+    "semester": 1,
+    "subjectCode": "CSE103",
+    "internalMarks": 12,
+    "externalMarks": 49,
+    "totalMarks": 61,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1014",
+    "semester": 1,
+    "subjectCode": "CSE104",
+    "internalMarks": 23,
+    "externalMarks": 60,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1014",
+    "semester": 1,
+    "subjectCode": "CSE105",
+    "internalMarks": 28,
+    "externalMarks": 32,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 7,
+    "subjectCode": "CSE101",
+    "internalMarks": 25,
+    "externalMarks": 48,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 7,
+    "subjectCode": "CSE102",
+    "internalMarks": 18,
+    "externalMarks": 68,
+    "totalMarks": 86,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 7,
+    "subjectCode": "CSE103",
+    "internalMarks": 17,
+    "externalMarks": 60,
+    "totalMarks": 77,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 7,
+    "subjectCode": "CSE104",
+    "internalMarks": 18,
+    "externalMarks": 69,
+    "totalMarks": 87,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1015",
+    "semester": 7,
+    "subjectCode": "CSE105",
+    "internalMarks": 26,
+    "externalMarks": 51,
+    "totalMarks": 77,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 6,
+    "subjectCode": "CSE101",
+    "internalMarks": 28,
+    "externalMarks": 64,
+    "totalMarks": 92,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 6,
+    "subjectCode": "CSE102",
+    "internalMarks": 10,
+    "externalMarks": 68,
+    "totalMarks": 78,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 6,
+    "subjectCode": "CSE103",
+    "internalMarks": 28,
+    "externalMarks": 44,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 6,
+    "subjectCode": "CSE104",
+    "internalMarks": 25,
+    "externalMarks": 20,
+    "totalMarks": 45,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1016",
+    "semester": 6,
+    "subjectCode": "CSE105",
+    "internalMarks": 21,
+    "externalMarks": 39,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 6,
+    "subjectCode": "CSE101",
+    "internalMarks": 24,
+    "externalMarks": 31,
+    "totalMarks": 55,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 6,
+    "subjectCode": "CSE102",
+    "internalMarks": 11,
+    "externalMarks": 36,
+    "totalMarks": 47,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 6,
+    "subjectCode": "CSE103",
+    "internalMarks": 22,
+    "externalMarks": 40,
+    "totalMarks": 62,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 6,
+    "subjectCode": "CSE104",
+    "internalMarks": 16,
+    "externalMarks": 49,
+    "totalMarks": 65,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1017",
+    "semester": 6,
+    "subjectCode": "CSE105",
+    "internalMarks": 20,
+    "externalMarks": 41,
+    "totalMarks": 61,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 8,
+    "subjectCode": "CSE101",
+    "internalMarks": 18,
+    "externalMarks": 69,
+    "totalMarks": 87,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 8,
+    "subjectCode": "CSE102",
+    "internalMarks": 21,
+    "externalMarks": 30,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 8,
+    "subjectCode": "CSE103",
+    "internalMarks": 29,
+    "externalMarks": 58,
+    "totalMarks": 87,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 8,
+    "subjectCode": "CSE104",
+    "internalMarks": 13,
+    "externalMarks": 69,
+    "totalMarks": 82,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1018",
+    "semester": 8,
+    "subjectCode": "CSE105",
+    "internalMarks": 15,
+    "externalMarks": 39,
+    "totalMarks": 54,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 8,
+    "subjectCode": "CSE101",
+    "internalMarks": 30,
+    "externalMarks": 41,
+    "totalMarks": 71,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 8,
+    "subjectCode": "CSE102",
+    "internalMarks": 10,
+    "externalMarks": 46,
+    "totalMarks": 56,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 8,
+    "subjectCode": "CSE103",
+    "internalMarks": 25,
+    "externalMarks": 26,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 8,
+    "subjectCode": "CSE104",
+    "internalMarks": 23,
+    "externalMarks": 43,
+    "totalMarks": 66,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1019",
+    "semester": 8,
+    "subjectCode": "CSE105",
+    "internalMarks": 30,
+    "externalMarks": 49,
+    "totalMarks": 79,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1020",
+    "semester": 4,
+    "subjectCode": "CSE101",
+    "internalMarks": 15,
+    "externalMarks": 51,
+    "totalMarks": 66,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1020",
+    "semester": 4,
+    "subjectCode": "CSE102",
+    "internalMarks": 16,
+    "externalMarks": 42,
+    "totalMarks": 58,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1020",
+    "semester": 4,
+    "subjectCode": "CSE103",
+    "internalMarks": 18,
+    "externalMarks": 41,
+    "totalMarks": 59,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1020",
+    "semester": 4,
+    "subjectCode": "CSE104",
+    "internalMarks": 18,
+    "externalMarks": 58,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1020",
+    "semester": 4,
+    "subjectCode": "CSE105",
+    "internalMarks": 18,
+    "externalMarks": 55,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 5,
+    "subjectCode": "CSE101",
+    "internalMarks": 27,
+    "externalMarks": 53,
+    "totalMarks": 80,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 5,
+    "subjectCode": "CSE102",
+    "internalMarks": 21,
+    "externalMarks": 47,
+    "totalMarks": 68,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 5,
+    "subjectCode": "CSE103",
+    "internalMarks": 27,
+    "externalMarks": 41,
+    "totalMarks": 68,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 5,
+    "subjectCode": "CSE104",
+    "internalMarks": 21,
+    "externalMarks": 64,
+    "totalMarks": 85,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1021",
+    "semester": 5,
+    "subjectCode": "CSE105",
+    "internalMarks": 24,
+    "externalMarks": 37,
+    "totalMarks": 61,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 6,
+    "subjectCode": "CSE101",
+    "internalMarks": 10,
+    "externalMarks": 65,
+    "totalMarks": 75,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 6,
+    "subjectCode": "CSE102",
+    "internalMarks": 27,
+    "externalMarks": 28,
+    "totalMarks": 55,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 6,
+    "subjectCode": "CSE103",
+    "internalMarks": 18,
+    "externalMarks": 22,
+    "totalMarks": 40,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 6,
+    "subjectCode": "CSE104",
+    "internalMarks": 11,
+    "externalMarks": 55,
+    "totalMarks": 66,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1022",
+    "semester": 6,
+    "subjectCode": "CSE105",
+    "internalMarks": 19,
+    "externalMarks": 64,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1023",
+    "semester": 1,
+    "subjectCode": "CSE101",
+    "internalMarks": 25,
+    "externalMarks": 24,
+    "totalMarks": 49,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1023",
+    "semester": 1,
+    "subjectCode": "CSE102",
+    "internalMarks": 28,
+    "externalMarks": 60,
+    "totalMarks": 88,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1023",
+    "semester": 1,
+    "subjectCode": "CSE103",
+    "internalMarks": 11,
+    "externalMarks": 29,
+    "totalMarks": 40,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1023",
+    "semester": 1,
+    "subjectCode": "CSE104",
+    "internalMarks": 14,
+    "externalMarks": 56,
+    "totalMarks": 70,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1023",
+    "semester": 1,
+    "subjectCode": "CSE105",
+    "internalMarks": 19,
+    "externalMarks": 25,
+    "totalMarks": 44,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 8,
+    "subjectCode": "CSE101",
+    "internalMarks": 27,
+    "externalMarks": 24,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 8,
+    "subjectCode": "CSE102",
+    "internalMarks": 15,
+    "externalMarks": 20,
+    "totalMarks": 35,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 8,
+    "subjectCode": "CSE103",
+    "internalMarks": 23,
+    "externalMarks": 48,
+    "totalMarks": 71,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 8,
+    "subjectCode": "CSE104",
+    "internalMarks": 29,
+    "externalMarks": 50,
+    "totalMarks": 79,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1024",
+    "semester": 8,
+    "subjectCode": "CSE105",
+    "internalMarks": 19,
+    "externalMarks": 22,
+    "totalMarks": 41,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1025",
+    "semester": 4,
+    "subjectCode": "CSE101",
+    "internalMarks": 18,
+    "externalMarks": 29,
+    "totalMarks": 47,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1025",
+    "semester": 4,
+    "subjectCode": "CSE102",
+    "internalMarks": 12,
+    "externalMarks": 23,
+    "totalMarks": 35,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1025",
+    "semester": 4,
+    "subjectCode": "CSE103",
+    "internalMarks": 15,
+    "externalMarks": 70,
+    "totalMarks": 85,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1025",
+    "semester": 4,
+    "subjectCode": "CSE104",
+    "internalMarks": 19,
+    "externalMarks": 58,
+    "totalMarks": 77,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1025",
+    "semester": 4,
+    "subjectCode": "CSE105",
+    "internalMarks": 28,
+    "externalMarks": 38,
+    "totalMarks": 66,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1026",
+    "semester": 4,
+    "subjectCode": "CSE101",
+    "internalMarks": 15,
+    "externalMarks": 50,
+    "totalMarks": 65,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1026",
+    "semester": 4,
+    "subjectCode": "CSE102",
+    "internalMarks": 26,
+    "externalMarks": 61,
+    "totalMarks": 87,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1026",
+    "semester": 4,
+    "subjectCode": "CSE103",
+    "internalMarks": 24,
+    "externalMarks": 37,
+    "totalMarks": 61,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1026",
+    "semester": 4,
+    "subjectCode": "CSE104",
+    "internalMarks": 15,
+    "externalMarks": 57,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1026",
+    "semester": 4,
+    "subjectCode": "CSE105",
+    "internalMarks": 23,
+    "externalMarks": 60,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1027",
+    "semester": 2,
+    "subjectCode": "CSE101",
+    "internalMarks": 18,
+    "externalMarks": 40,
+    "totalMarks": 58,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1027",
+    "semester": 2,
+    "subjectCode": "CSE102",
+    "internalMarks": 13,
+    "externalMarks": 69,
+    "totalMarks": 82,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1027",
+    "semester": 2,
+    "subjectCode": "CSE103",
+    "internalMarks": 22,
+    "externalMarks": 52,
+    "totalMarks": 74,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1027",
+    "semester": 2,
+    "subjectCode": "CSE104",
+    "internalMarks": 10,
+    "externalMarks": 62,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1027",
+    "semester": 2,
+    "subjectCode": "CSE105",
+    "internalMarks": 27,
+    "externalMarks": 49,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1028",
+    "semester": 4,
+    "subjectCode": "CSE101",
+    "internalMarks": 27,
+    "externalMarks": 46,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1028",
+    "semester": 4,
+    "subjectCode": "CSE102",
+    "internalMarks": 12,
+    "externalMarks": 34,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1028",
+    "semester": 4,
+    "subjectCode": "CSE103",
+    "internalMarks": 13,
+    "externalMarks": 49,
+    "totalMarks": 62,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1028",
+    "semester": 4,
+    "subjectCode": "CSE104",
+    "internalMarks": 13,
+    "externalMarks": 61,
+    "totalMarks": 74,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1028",
+    "semester": 4,
+    "subjectCode": "CSE105",
+    "internalMarks": 14,
+    "externalMarks": 51,
+    "totalMarks": 65,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1029",
+    "semester": 1,
+    "subjectCode": "CSE101",
+    "internalMarks": 18,
+    "externalMarks": 20,
+    "totalMarks": 38,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1029",
+    "semester": 1,
+    "subjectCode": "CSE102",
+    "internalMarks": 19,
+    "externalMarks": 66,
+    "totalMarks": 85,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1029",
+    "semester": 1,
+    "subjectCode": "CSE103",
+    "internalMarks": 19,
+    "externalMarks": 57,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1029",
+    "semester": 1,
+    "subjectCode": "CSE104",
+    "internalMarks": 28,
+    "externalMarks": 62,
+    "totalMarks": 90,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1029",
+    "semester": 1,
+    "subjectCode": "CSE105",
+    "internalMarks": 25,
+    "externalMarks": 29,
+    "totalMarks": 54,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1030",
+    "semester": 4,
+    "subjectCode": "CSE101",
+    "internalMarks": 11,
+    "externalMarks": 28,
+    "totalMarks": 39,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1030",
+    "semester": 4,
+    "subjectCode": "CSE102",
+    "internalMarks": 26,
+    "externalMarks": 57,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1030",
+    "semester": 4,
+    "subjectCode": "CSE103",
+    "internalMarks": 20,
+    "externalMarks": 26,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1030",
+    "semester": 4,
+    "subjectCode": "CSE104",
+    "internalMarks": 24,
+    "externalMarks": 26,
+    "totalMarks": 50,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1030",
+    "semester": 4,
+    "subjectCode": "CSE105",
+    "internalMarks": 26,
+    "externalMarks": 49,
+    "totalMarks": 75,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 6,
+    "subjectCode": "ECE101",
+    "internalMarks": 17,
+    "externalMarks": 60,
+    "totalMarks": 77,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 6,
+    "subjectCode": "ECE102",
+    "internalMarks": 19,
+    "externalMarks": 34,
+    "totalMarks": 53,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 6,
+    "subjectCode": "ECE103",
+    "internalMarks": 12,
+    "externalMarks": 47,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 6,
+    "subjectCode": "ECE104",
+    "internalMarks": 13,
+    "externalMarks": 68,
+    "totalMarks": 81,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1031",
+    "semester": 6,
+    "subjectCode": "ECE105",
+    "internalMarks": 30,
+    "externalMarks": 65,
+    "totalMarks": 95,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1032",
+    "semester": 1,
+    "subjectCode": "ECE101",
+    "internalMarks": 28,
+    "externalMarks": 63,
+    "totalMarks": 91,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1032",
+    "semester": 1,
+    "subjectCode": "ECE102",
+    "internalMarks": 15,
+    "externalMarks": 30,
+    "totalMarks": 45,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1032",
+    "semester": 1,
+    "subjectCode": "ECE103",
+    "internalMarks": 15,
+    "externalMarks": 25,
+    "totalMarks": 40,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1032",
+    "semester": 1,
+    "subjectCode": "ECE104",
+    "internalMarks": 29,
+    "externalMarks": 44,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1032",
+    "semester": 1,
+    "subjectCode": "ECE105",
+    "internalMarks": 29,
+    "externalMarks": 63,
+    "totalMarks": 92,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1033",
+    "semester": 1,
+    "subjectCode": "ECE101",
+    "internalMarks": 28,
+    "externalMarks": 39,
+    "totalMarks": 67,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1033",
+    "semester": 1,
+    "subjectCode": "ECE102",
+    "internalMarks": 30,
+    "externalMarks": 47,
+    "totalMarks": 77,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1033",
+    "semester": 1,
+    "subjectCode": "ECE103",
+    "internalMarks": 18,
+    "externalMarks": 49,
+    "totalMarks": 67,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1033",
+    "semester": 1,
+    "subjectCode": "ECE104",
+    "internalMarks": 19,
+    "externalMarks": 32,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1033",
+    "semester": 1,
+    "subjectCode": "ECE105",
+    "internalMarks": 22,
+    "externalMarks": 50,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 6,
+    "subjectCode": "ECE101",
+    "internalMarks": 29,
+    "externalMarks": 36,
+    "totalMarks": 65,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 6,
+    "subjectCode": "ECE102",
+    "internalMarks": 14,
+    "externalMarks": 60,
+    "totalMarks": 74,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 6,
+    "subjectCode": "ECE103",
+    "internalMarks": 13,
+    "externalMarks": 60,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 6,
+    "subjectCode": "ECE104",
+    "internalMarks": 30,
+    "externalMarks": 22,
+    "totalMarks": 52,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1034",
+    "semester": 6,
+    "subjectCode": "ECE105",
+    "internalMarks": 19,
+    "externalMarks": 70,
+    "totalMarks": 89,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 5,
+    "subjectCode": "ECE101",
+    "internalMarks": 24,
+    "externalMarks": 24,
+    "totalMarks": 48,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 5,
+    "subjectCode": "ECE102",
+    "internalMarks": 14,
+    "externalMarks": 68,
+    "totalMarks": 82,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 5,
+    "subjectCode": "ECE103",
+    "internalMarks": 17,
+    "externalMarks": 63,
+    "totalMarks": 80,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 5,
+    "subjectCode": "ECE104",
+    "internalMarks": 22,
+    "externalMarks": 55,
+    "totalMarks": 77,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1035",
+    "semester": 5,
+    "subjectCode": "ECE105",
+    "internalMarks": 21,
+    "externalMarks": 25,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 8,
+    "subjectCode": "ECE101",
+    "internalMarks": 11,
+    "externalMarks": 39,
+    "totalMarks": 50,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 8,
+    "subjectCode": "ECE102",
+    "internalMarks": 25,
+    "externalMarks": 27,
+    "totalMarks": 52,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 8,
+    "subjectCode": "ECE103",
+    "internalMarks": 13,
+    "externalMarks": 35,
+    "totalMarks": 48,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 8,
+    "subjectCode": "ECE104",
+    "internalMarks": 27,
+    "externalMarks": 28,
+    "totalMarks": 55,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1036",
+    "semester": 8,
+    "subjectCode": "ECE105",
+    "internalMarks": 22,
+    "externalMarks": 49,
+    "totalMarks": 71,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1037",
+    "semester": 1,
+    "subjectCode": "ECE101",
+    "internalMarks": 17,
+    "externalMarks": 43,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1037",
+    "semester": 1,
+    "subjectCode": "ECE102",
+    "internalMarks": 13,
+    "externalMarks": 63,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1037",
+    "semester": 1,
+    "subjectCode": "ECE103",
+    "internalMarks": 21,
+    "externalMarks": 54,
+    "totalMarks": 75,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1037",
+    "semester": 1,
+    "subjectCode": "ECE104",
+    "internalMarks": 30,
+    "externalMarks": 42,
+    "totalMarks": 72,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1037",
+    "semester": 1,
+    "subjectCode": "ECE105",
+    "internalMarks": 11,
+    "externalMarks": 45,
+    "totalMarks": 56,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 7,
+    "subjectCode": "ECE101",
+    "internalMarks": 14,
+    "externalMarks": 28,
+    "totalMarks": 42,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 7,
+    "subjectCode": "ECE102",
+    "internalMarks": 27,
+    "externalMarks": 36,
+    "totalMarks": 63,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 7,
+    "subjectCode": "ECE103",
+    "internalMarks": 15,
+    "externalMarks": 27,
+    "totalMarks": 42,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 7,
+    "subjectCode": "ECE104",
+    "internalMarks": 10,
+    "externalMarks": 28,
+    "totalMarks": 38,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1038",
+    "semester": 7,
+    "subjectCode": "ECE105",
+    "internalMarks": 10,
+    "externalMarks": 42,
+    "totalMarks": 52,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1039",
+    "semester": 3,
+    "subjectCode": "ECE101",
+    "internalMarks": 26,
+    "externalMarks": 39,
+    "totalMarks": 65,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1039",
+    "semester": 3,
+    "subjectCode": "ECE102",
+    "internalMarks": 24,
+    "externalMarks": 61,
+    "totalMarks": 85,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1039",
+    "semester": 3,
+    "subjectCode": "ECE103",
+    "internalMarks": 10,
+    "externalMarks": 23,
+    "totalMarks": 33,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1039",
+    "semester": 3,
+    "subjectCode": "ECE104",
+    "internalMarks": 25,
+    "externalMarks": 45,
+    "totalMarks": 70,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1039",
+    "semester": 3,
+    "subjectCode": "ECE105",
+    "internalMarks": 23,
+    "externalMarks": 63,
+    "totalMarks": 86,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1040",
+    "semester": 2,
+    "subjectCode": "ECE101",
+    "internalMarks": 13,
+    "externalMarks": 61,
+    "totalMarks": 74,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1040",
+    "semester": 2,
+    "subjectCode": "ECE102",
+    "internalMarks": 30,
+    "externalMarks": 69,
+    "totalMarks": 99,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1040",
+    "semester": 2,
+    "subjectCode": "ECE103",
+    "internalMarks": 27,
+    "externalMarks": 66,
+    "totalMarks": 93,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1040",
+    "semester": 2,
+    "subjectCode": "ECE104",
+    "internalMarks": 16,
+    "externalMarks": 47,
+    "totalMarks": 63,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1040",
+    "semester": 2,
+    "subjectCode": "ECE105",
+    "internalMarks": 24,
+    "externalMarks": 34,
+    "totalMarks": 58,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1041",
+    "semester": 1,
+    "subjectCode": "ECE101",
+    "internalMarks": 21,
+    "externalMarks": 28,
+    "totalMarks": 49,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1041",
+    "semester": 1,
+    "subjectCode": "ECE102",
+    "internalMarks": 27,
+    "externalMarks": 23,
+    "totalMarks": 50,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1041",
+    "semester": 1,
+    "subjectCode": "ECE103",
+    "internalMarks": 28,
+    "externalMarks": 55,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1041",
+    "semester": 1,
+    "subjectCode": "ECE104",
+    "internalMarks": 27,
+    "externalMarks": 41,
+    "totalMarks": 68,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1041",
+    "semester": 1,
+    "subjectCode": "ECE105",
+    "internalMarks": 13,
+    "externalMarks": 46,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 8,
+    "subjectCode": "ECE101",
+    "internalMarks": 18,
+    "externalMarks": 64,
+    "totalMarks": 82,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 8,
+    "subjectCode": "ECE102",
+    "internalMarks": 19,
+    "externalMarks": 41,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 8,
+    "subjectCode": "ECE103",
+    "internalMarks": 21,
+    "externalMarks": 20,
+    "totalMarks": 41,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 8,
+    "subjectCode": "ECE104",
+    "internalMarks": 15,
+    "externalMarks": 29,
+    "totalMarks": 44,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1042",
+    "semester": 8,
+    "subjectCode": "ECE105",
+    "internalMarks": 28,
+    "externalMarks": 62,
+    "totalMarks": 90,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 7,
+    "subjectCode": "ECE101",
+    "internalMarks": 25,
+    "externalMarks": 58,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 7,
+    "subjectCode": "ECE102",
+    "internalMarks": 24,
+    "externalMarks": 46,
+    "totalMarks": 70,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 7,
+    "subjectCode": "ECE103",
+    "internalMarks": 18,
+    "externalMarks": 33,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 7,
+    "subjectCode": "ECE104",
+    "internalMarks": 26,
+    "externalMarks": 27,
+    "totalMarks": 53,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1043",
+    "semester": 7,
+    "subjectCode": "ECE105",
+    "internalMarks": 21,
+    "externalMarks": 47,
+    "totalMarks": 68,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1044",
+    "semester": 4,
+    "subjectCode": "ECE101",
+    "internalMarks": 10,
+    "externalMarks": 51,
+    "totalMarks": 61,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1044",
+    "semester": 4,
+    "subjectCode": "ECE102",
+    "internalMarks": 23,
+    "externalMarks": 31,
+    "totalMarks": 54,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1044",
+    "semester": 4,
+    "subjectCode": "ECE103",
+    "internalMarks": 14,
+    "externalMarks": 44,
+    "totalMarks": 58,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1044",
+    "semester": 4,
+    "subjectCode": "ECE104",
+    "internalMarks": 27,
+    "externalMarks": 65,
+    "totalMarks": 92,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1044",
+    "semester": 4,
+    "subjectCode": "ECE105",
+    "internalMarks": 17,
+    "externalMarks": 52,
+    "totalMarks": 69,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1045",
+    "semester": 1,
+    "subjectCode": "ECE101",
+    "internalMarks": 15,
+    "externalMarks": 59,
+    "totalMarks": 74,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1045",
+    "semester": 1,
+    "subjectCode": "ECE102",
+    "internalMarks": 24,
+    "externalMarks": 64,
+    "totalMarks": 88,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1045",
+    "semester": 1,
+    "subjectCode": "ECE103",
+    "internalMarks": 21,
+    "externalMarks": 25,
+    "totalMarks": 46,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1045",
+    "semester": 1,
+    "subjectCode": "ECE104",
+    "internalMarks": 23,
+    "externalMarks": 26,
+    "totalMarks": 49,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1045",
+    "semester": 1,
+    "subjectCode": "ECE105",
+    "internalMarks": 17,
+    "externalMarks": 47,
+    "totalMarks": 64,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1046",
+    "semester": 3,
+    "subjectCode": "ECE101",
+    "internalMarks": 14,
+    "externalMarks": 36,
+    "totalMarks": 50,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1046",
+    "semester": 3,
+    "subjectCode": "ECE102",
+    "internalMarks": 16,
+    "externalMarks": 31,
+    "totalMarks": 47,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1046",
+    "semester": 3,
+    "subjectCode": "ECE103",
+    "internalMarks": 29,
+    "externalMarks": 29,
+    "totalMarks": 58,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1046",
+    "semester": 3,
+    "subjectCode": "ECE104",
+    "internalMarks": 30,
+    "externalMarks": 24,
+    "totalMarks": 54,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1046",
+    "semester": 3,
+    "subjectCode": "ECE105",
+    "internalMarks": 15,
+    "externalMarks": 69,
+    "totalMarks": 84,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1047",
+    "semester": 4,
+    "subjectCode": "ECE101",
+    "internalMarks": 19,
+    "externalMarks": 24,
+    "totalMarks": 43,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1047",
+    "semester": 4,
+    "subjectCode": "ECE102",
+    "internalMarks": 30,
+    "externalMarks": 25,
+    "totalMarks": 55,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1047",
+    "semester": 4,
+    "subjectCode": "ECE103",
+    "internalMarks": 29,
+    "externalMarks": 58,
+    "totalMarks": 87,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1047",
+    "semester": 4,
+    "subjectCode": "ECE104",
+    "internalMarks": 26,
+    "externalMarks": 44,
+    "totalMarks": 70,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1047",
+    "semester": 4,
+    "subjectCode": "ECE105",
+    "internalMarks": 24,
+    "externalMarks": 57,
+    "totalMarks": 81,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1048",
+    "semester": 4,
+    "subjectCode": "ECE101",
+    "internalMarks": 22,
+    "externalMarks": 46,
+    "totalMarks": 68,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1048",
+    "semester": 4,
+    "subjectCode": "ECE102",
+    "internalMarks": 20,
+    "externalMarks": 63,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1048",
+    "semester": 4,
+    "subjectCode": "ECE103",
+    "internalMarks": 29,
+    "externalMarks": 23,
+    "totalMarks": 52,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1048",
+    "semester": 4,
+    "subjectCode": "ECE104",
+    "internalMarks": 30,
+    "externalMarks": 61,
+    "totalMarks": 91,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1048",
+    "semester": 4,
+    "subjectCode": "ECE105",
+    "internalMarks": 20,
+    "externalMarks": 24,
+    "totalMarks": 44,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1049",
+    "semester": 2,
+    "subjectCode": "ECE101",
+    "internalMarks": 22,
+    "externalMarks": 61,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1049",
+    "semester": 2,
+    "subjectCode": "ECE102",
+    "internalMarks": 20,
+    "externalMarks": 28,
+    "totalMarks": 48,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1049",
+    "semester": 2,
+    "subjectCode": "ECE103",
+    "internalMarks": 26,
+    "externalMarks": 25,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1049",
+    "semester": 2,
+    "subjectCode": "ECE104",
+    "internalMarks": 30,
+    "externalMarks": 62,
+    "totalMarks": 92,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1049",
+    "semester": 2,
+    "subjectCode": "ECE105",
+    "internalMarks": 23,
+    "externalMarks": 52,
+    "totalMarks": 75,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 5,
+    "subjectCode": "ECE101",
+    "internalMarks": 15,
+    "externalMarks": 31,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 5,
+    "subjectCode": "ECE102",
+    "internalMarks": 29,
+    "externalMarks": 30,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 5,
+    "subjectCode": "ECE103",
+    "internalMarks": 24,
+    "externalMarks": 22,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 5,
+    "subjectCode": "ECE104",
+    "internalMarks": 23,
+    "externalMarks": 43,
+    "totalMarks": 66,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1050",
+    "semester": 5,
+    "subjectCode": "ECE105",
+    "internalMarks": 17,
+    "externalMarks": 48,
+    "totalMarks": 65,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1051",
+    "semester": 4,
+    "subjectCode": "ECE101",
+    "internalMarks": 30,
+    "externalMarks": 50,
+    "totalMarks": 80,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1051",
+    "semester": 4,
+    "subjectCode": "ECE102",
+    "internalMarks": 21,
+    "externalMarks": 55,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1051",
+    "semester": 4,
+    "subjectCode": "ECE103",
+    "internalMarks": 13,
+    "externalMarks": 65,
+    "totalMarks": 78,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1051",
+    "semester": 4,
+    "subjectCode": "ECE104",
+    "internalMarks": 26,
+    "externalMarks": 27,
+    "totalMarks": 53,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1051",
+    "semester": 4,
+    "subjectCode": "ECE105",
+    "internalMarks": 19,
+    "externalMarks": 25,
+    "totalMarks": 44,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1052",
+    "semester": 4,
+    "subjectCode": "ECE101",
+    "internalMarks": 17,
+    "externalMarks": 21,
+    "totalMarks": 38,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1052",
+    "semester": 4,
+    "subjectCode": "ECE102",
+    "internalMarks": 20,
+    "externalMarks": 26,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1052",
+    "semester": 4,
+    "subjectCode": "ECE103",
+    "internalMarks": 30,
+    "externalMarks": 41,
+    "totalMarks": 71,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1052",
+    "semester": 4,
+    "subjectCode": "ECE104",
+    "internalMarks": 14,
+    "externalMarks": 28,
+    "totalMarks": 42,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1052",
+    "semester": 4,
+    "subjectCode": "ECE105",
+    "internalMarks": 11,
+    "externalMarks": 38,
+    "totalMarks": 49,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1053",
+    "semester": 2,
+    "subjectCode": "ECE101",
+    "internalMarks": 13,
+    "externalMarks": 23,
+    "totalMarks": 36,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1053",
+    "semester": 2,
+    "subjectCode": "ECE102",
+    "internalMarks": 17,
+    "externalMarks": 46,
+    "totalMarks": 63,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1053",
+    "semester": 2,
+    "subjectCode": "ECE103",
+    "internalMarks": 30,
+    "externalMarks": 70,
+    "totalMarks": 100,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1053",
+    "semester": 2,
+    "subjectCode": "ECE104",
+    "internalMarks": 29,
+    "externalMarks": 49,
+    "totalMarks": 78,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1053",
+    "semester": 2,
+    "subjectCode": "ECE105",
+    "internalMarks": 12,
+    "externalMarks": 27,
+    "totalMarks": 39,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 5,
+    "subjectCode": "ECE101",
+    "internalMarks": 10,
+    "externalMarks": 42,
+    "totalMarks": 52,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 5,
+    "subjectCode": "ECE102",
+    "internalMarks": 12,
+    "externalMarks": 42,
+    "totalMarks": 54,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 5,
+    "subjectCode": "ECE103",
+    "internalMarks": 17,
+    "externalMarks": 66,
+    "totalMarks": 83,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 5,
+    "subjectCode": "ECE104",
+    "internalMarks": 30,
+    "externalMarks": 26,
+    "totalMarks": 56,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1054",
+    "semester": 5,
+    "subjectCode": "ECE105",
+    "internalMarks": 28,
+    "externalMarks": 67,
+    "totalMarks": 95,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1055",
+    "semester": 3,
+    "subjectCode": "ECE101",
+    "internalMarks": 20,
+    "externalMarks": 39,
+    "totalMarks": 59,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1055",
+    "semester": 3,
+    "subjectCode": "ECE102",
+    "internalMarks": 26,
+    "externalMarks": 45,
+    "totalMarks": 71,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1055",
+    "semester": 3,
+    "subjectCode": "ECE103",
+    "internalMarks": 27,
+    "externalMarks": 50,
+    "totalMarks": 77,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1055",
+    "semester": 3,
+    "subjectCode": "ECE104",
+    "internalMarks": 18,
+    "externalMarks": 22,
+    "totalMarks": 40,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1055",
+    "semester": 3,
+    "subjectCode": "ECE105",
+    "internalMarks": 30,
+    "externalMarks": 32,
+    "totalMarks": 62,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1056",
+    "semester": 4,
+    "subjectCode": "ECE101",
+    "internalMarks": 23,
+    "externalMarks": 58,
+    "totalMarks": 81,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1056",
+    "semester": 4,
+    "subjectCode": "ECE102",
+    "internalMarks": 15,
+    "externalMarks": 54,
+    "totalMarks": 69,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1056",
+    "semester": 4,
+    "subjectCode": "ECE103",
+    "internalMarks": 19,
+    "externalMarks": 40,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1056",
+    "semester": 4,
+    "subjectCode": "ECE104",
+    "internalMarks": 13,
+    "externalMarks": 25,
+    "totalMarks": 38,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1056",
+    "semester": 4,
+    "subjectCode": "ECE105",
+    "internalMarks": 20,
+    "externalMarks": 62,
+    "totalMarks": 82,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1057",
+    "semester": 1,
+    "subjectCode": "ECE101",
+    "internalMarks": 21,
+    "externalMarks": 52,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1057",
+    "semester": 1,
+    "subjectCode": "ECE102",
+    "internalMarks": 15,
+    "externalMarks": 21,
+    "totalMarks": 36,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1057",
+    "semester": 1,
+    "subjectCode": "ECE103",
+    "internalMarks": 14,
+    "externalMarks": 58,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1057",
+    "semester": 1,
+    "subjectCode": "ECE104",
+    "internalMarks": 24,
+    "externalMarks": 22,
+    "totalMarks": 46,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1057",
+    "semester": 1,
+    "subjectCode": "ECE105",
+    "internalMarks": 14,
+    "externalMarks": 24,
+    "totalMarks": 38,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1058",
+    "semester": 4,
+    "subjectCode": "ECE101",
+    "internalMarks": 10,
+    "externalMarks": 67,
+    "totalMarks": 77,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1058",
+    "semester": 4,
+    "subjectCode": "ECE102",
+    "internalMarks": 15,
+    "externalMarks": 51,
+    "totalMarks": 66,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1058",
+    "semester": 4,
+    "subjectCode": "ECE103",
+    "internalMarks": 26,
+    "externalMarks": 44,
+    "totalMarks": 70,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1058",
+    "semester": 4,
+    "subjectCode": "ECE104",
+    "internalMarks": 27,
+    "externalMarks": 27,
+    "totalMarks": 54,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1058",
+    "semester": 4,
+    "subjectCode": "ECE105",
+    "internalMarks": 18,
+    "externalMarks": 69,
+    "totalMarks": 87,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1059",
+    "semester": 4,
+    "subjectCode": "ECE101",
+    "internalMarks": 15,
+    "externalMarks": 65,
+    "totalMarks": 80,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1059",
+    "semester": 4,
+    "subjectCode": "ECE102",
+    "internalMarks": 30,
+    "externalMarks": 31,
+    "totalMarks": 61,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1059",
+    "semester": 4,
+    "subjectCode": "ECE103",
+    "internalMarks": 21,
+    "externalMarks": 52,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1059",
+    "semester": 4,
+    "subjectCode": "ECE104",
+    "internalMarks": 17,
+    "externalMarks": 27,
+    "totalMarks": 44,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1059",
+    "semester": 4,
+    "subjectCode": "ECE105",
+    "internalMarks": 16,
+    "externalMarks": 70,
+    "totalMarks": 86,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 6,
+    "subjectCode": "ECE101",
+    "internalMarks": 24,
+    "externalMarks": 49,
+    "totalMarks": 73,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 6,
+    "subjectCode": "ECE102",
+    "internalMarks": 26,
+    "externalMarks": 42,
+    "totalMarks": 68,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 6,
+    "subjectCode": "ECE103",
+    "internalMarks": 14,
+    "externalMarks": 69,
+    "totalMarks": 83,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 6,
+    "subjectCode": "ECE104",
+    "internalMarks": 27,
+    "externalMarks": 60,
+    "totalMarks": 87,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1060",
+    "semester": 6,
+    "subjectCode": "ECE105",
+    "internalMarks": 28,
+    "externalMarks": 31,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1061",
+    "semester": 1,
+    "subjectCode": "MECH101",
+    "internalMarks": 16,
+    "externalMarks": 60,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1061",
+    "semester": 1,
+    "subjectCode": "MECH102",
+    "internalMarks": 27,
+    "externalMarks": 37,
+    "totalMarks": 64,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1061",
+    "semester": 1,
+    "subjectCode": "MECH103",
+    "internalMarks": 14,
+    "externalMarks": 60,
+    "totalMarks": 74,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1061",
+    "semester": 1,
+    "subjectCode": "MECH104",
+    "internalMarks": 19,
+    "externalMarks": 59,
+    "totalMarks": 78,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1061",
+    "semester": 1,
+    "subjectCode": "MECH105",
+    "internalMarks": 27,
+    "externalMarks": 25,
+    "totalMarks": 52,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1062",
+    "semester": 3,
+    "subjectCode": "MECH101",
+    "internalMarks": 25,
+    "externalMarks": 35,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1062",
+    "semester": 3,
+    "subjectCode": "MECH102",
+    "internalMarks": 22,
+    "externalMarks": 39,
+    "totalMarks": 61,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1062",
+    "semester": 3,
+    "subjectCode": "MECH103",
+    "internalMarks": 24,
+    "externalMarks": 24,
+    "totalMarks": 48,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1062",
+    "semester": 3,
+    "subjectCode": "MECH104",
+    "internalMarks": 11,
+    "externalMarks": 30,
+    "totalMarks": 41,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1062",
+    "semester": 3,
+    "subjectCode": "MECH105",
+    "internalMarks": 24,
+    "externalMarks": 46,
+    "totalMarks": 70,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 6,
+    "subjectCode": "MECH101",
+    "internalMarks": 22,
+    "externalMarks": 59,
+    "totalMarks": 81,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 6,
+    "subjectCode": "MECH102",
+    "internalMarks": 23,
+    "externalMarks": 35,
+    "totalMarks": 58,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 6,
+    "subjectCode": "MECH103",
+    "internalMarks": 15,
+    "externalMarks": 40,
+    "totalMarks": 55,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 6,
+    "subjectCode": "MECH104",
+    "internalMarks": 28,
+    "externalMarks": 66,
+    "totalMarks": 94,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1063",
+    "semester": 6,
+    "subjectCode": "MECH105",
+    "internalMarks": 20,
+    "externalMarks": 32,
+    "totalMarks": 52,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1064",
+    "semester": 2,
+    "subjectCode": "MECH101",
+    "internalMarks": 25,
+    "externalMarks": 58,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1064",
+    "semester": 2,
+    "subjectCode": "MECH102",
+    "internalMarks": 30,
+    "externalMarks": 63,
+    "totalMarks": 93,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1064",
+    "semester": 2,
+    "subjectCode": "MECH103",
+    "internalMarks": 25,
+    "externalMarks": 38,
+    "totalMarks": 63,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1064",
+    "semester": 2,
+    "subjectCode": "MECH104",
+    "internalMarks": 27,
+    "externalMarks": 20,
+    "totalMarks": 47,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1064",
+    "semester": 2,
+    "subjectCode": "MECH105",
+    "internalMarks": 13,
+    "externalMarks": 47,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1065",
+    "semester": 4,
+    "subjectCode": "MECH101",
+    "internalMarks": 22,
+    "externalMarks": 43,
+    "totalMarks": 65,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1065",
+    "semester": 4,
+    "subjectCode": "MECH102",
+    "internalMarks": 20,
+    "externalMarks": 55,
+    "totalMarks": 75,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1065",
+    "semester": 4,
+    "subjectCode": "MECH103",
+    "internalMarks": 21,
+    "externalMarks": 68,
+    "totalMarks": 89,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1065",
+    "semester": 4,
+    "subjectCode": "MECH104",
+    "internalMarks": 14,
+    "externalMarks": 32,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1065",
+    "semester": 4,
+    "subjectCode": "MECH105",
+    "internalMarks": 29,
+    "externalMarks": 52,
+    "totalMarks": 81,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 7,
+    "subjectCode": "MECH101",
+    "internalMarks": 20,
+    "externalMarks": 63,
+    "totalMarks": 83,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 7,
+    "subjectCode": "MECH102",
+    "internalMarks": 13,
+    "externalMarks": 46,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 7,
+    "subjectCode": "MECH103",
+    "internalMarks": 28,
+    "externalMarks": 39,
+    "totalMarks": 67,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 7,
+    "subjectCode": "MECH104",
+    "internalMarks": 30,
+    "externalMarks": 21,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1066",
+    "semester": 7,
+    "subjectCode": "MECH105",
+    "internalMarks": 29,
+    "externalMarks": 50,
+    "totalMarks": 79,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 5,
+    "subjectCode": "MECH101",
+    "internalMarks": 23,
+    "externalMarks": 64,
+    "totalMarks": 87,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 5,
+    "subjectCode": "MECH102",
+    "internalMarks": 16,
+    "externalMarks": 46,
+    "totalMarks": 62,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 5,
+    "subjectCode": "MECH103",
+    "internalMarks": 26,
+    "externalMarks": 69,
+    "totalMarks": 95,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 5,
+    "subjectCode": "MECH104",
+    "internalMarks": 29,
+    "externalMarks": 50,
+    "totalMarks": 79,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1067",
+    "semester": 5,
+    "subjectCode": "MECH105",
+    "internalMarks": 11,
+    "externalMarks": 65,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 6,
+    "subjectCode": "MECH101",
+    "internalMarks": 17,
+    "externalMarks": 39,
+    "totalMarks": 56,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 6,
+    "subjectCode": "MECH102",
+    "internalMarks": 19,
+    "externalMarks": 65,
+    "totalMarks": 84,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 6,
+    "subjectCode": "MECH103",
+    "internalMarks": 16,
+    "externalMarks": 64,
+    "totalMarks": 80,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 6,
+    "subjectCode": "MECH104",
+    "internalMarks": 25,
+    "externalMarks": 40,
+    "totalMarks": 65,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1068",
+    "semester": 6,
+    "subjectCode": "MECH105",
+    "internalMarks": 25,
+    "externalMarks": 42,
+    "totalMarks": 67,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1069",
+    "semester": 2,
+    "subjectCode": "MECH101",
+    "internalMarks": 18,
+    "externalMarks": 55,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1069",
+    "semester": 2,
+    "subjectCode": "MECH102",
+    "internalMarks": 18,
+    "externalMarks": 28,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1069",
+    "semester": 2,
+    "subjectCode": "MECH103",
+    "internalMarks": 13,
+    "externalMarks": 59,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1069",
+    "semester": 2,
+    "subjectCode": "MECH104",
+    "internalMarks": 28,
+    "externalMarks": 35,
+    "totalMarks": 63,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1069",
+    "semester": 2,
+    "subjectCode": "MECH105",
+    "internalMarks": 17,
+    "externalMarks": 23,
+    "totalMarks": 40,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1070",
+    "semester": 2,
+    "subjectCode": "MECH101",
+    "internalMarks": 19,
+    "externalMarks": 61,
+    "totalMarks": 80,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1070",
+    "semester": 2,
+    "subjectCode": "MECH102",
+    "internalMarks": 11,
+    "externalMarks": 69,
+    "totalMarks": 80,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1070",
+    "semester": 2,
+    "subjectCode": "MECH103",
+    "internalMarks": 12,
+    "externalMarks": 61,
+    "totalMarks": 73,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1070",
+    "semester": 2,
+    "subjectCode": "MECH104",
+    "internalMarks": 28,
+    "externalMarks": 34,
+    "totalMarks": 62,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1070",
+    "semester": 2,
+    "subjectCode": "MECH105",
+    "internalMarks": 27,
+    "externalMarks": 67,
+    "totalMarks": 94,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1071",
+    "semester": 1,
+    "subjectCode": "MECH101",
+    "internalMarks": 14,
+    "externalMarks": 52,
+    "totalMarks": 66,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1071",
+    "semester": 1,
+    "subjectCode": "MECH102",
+    "internalMarks": 24,
+    "externalMarks": 37,
+    "totalMarks": 61,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1071",
+    "semester": 1,
+    "subjectCode": "MECH103",
+    "internalMarks": 16,
+    "externalMarks": 27,
+    "totalMarks": 43,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1071",
+    "semester": 1,
+    "subjectCode": "MECH104",
+    "internalMarks": 20,
+    "externalMarks": 30,
+    "totalMarks": 50,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1071",
+    "semester": 1,
+    "subjectCode": "MECH105",
+    "internalMarks": 24,
+    "externalMarks": 61,
+    "totalMarks": 85,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1072",
+    "semester": 4,
+    "subjectCode": "MECH101",
+    "internalMarks": 17,
+    "externalMarks": 20,
+    "totalMarks": 37,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1072",
+    "semester": 4,
+    "subjectCode": "MECH102",
+    "internalMarks": 18,
+    "externalMarks": 44,
+    "totalMarks": 62,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1072",
+    "semester": 4,
+    "subjectCode": "MECH103",
+    "internalMarks": 17,
+    "externalMarks": 48,
+    "totalMarks": 65,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1072",
+    "semester": 4,
+    "subjectCode": "MECH104",
+    "internalMarks": 18,
+    "externalMarks": 41,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1072",
+    "semester": 4,
+    "subjectCode": "MECH105",
+    "internalMarks": 19,
+    "externalMarks": 57,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 5,
+    "subjectCode": "MECH101",
+    "internalMarks": 14,
+    "externalMarks": 49,
+    "totalMarks": 63,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 5,
+    "subjectCode": "MECH102",
+    "internalMarks": 29,
+    "externalMarks": 43,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 5,
+    "subjectCode": "MECH103",
+    "internalMarks": 23,
+    "externalMarks": 64,
+    "totalMarks": 87,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 5,
+    "subjectCode": "MECH104",
+    "internalMarks": 27,
+    "externalMarks": 50,
+    "totalMarks": 77,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1073",
+    "semester": 5,
+    "subjectCode": "MECH105",
+    "internalMarks": 27,
+    "externalMarks": 62,
+    "totalMarks": 89,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 5,
+    "subjectCode": "MECH101",
+    "internalMarks": 12,
+    "externalMarks": 52,
+    "totalMarks": 64,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 5,
+    "subjectCode": "MECH102",
+    "internalMarks": 24,
+    "externalMarks": 23,
+    "totalMarks": 47,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 5,
+    "subjectCode": "MECH103",
+    "internalMarks": 24,
+    "externalMarks": 28,
+    "totalMarks": 52,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 5,
+    "subjectCode": "MECH104",
+    "internalMarks": 26,
+    "externalMarks": 46,
+    "totalMarks": 72,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1074",
+    "semester": 5,
+    "subjectCode": "MECH105",
+    "internalMarks": 24,
+    "externalMarks": 56,
+    "totalMarks": 80,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1075",
+    "semester": 2,
+    "subjectCode": "MECH101",
+    "internalMarks": 25,
+    "externalMarks": 22,
+    "totalMarks": 47,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1075",
+    "semester": 2,
+    "subjectCode": "MECH102",
+    "internalMarks": 19,
+    "externalMarks": 46,
+    "totalMarks": 65,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1075",
+    "semester": 2,
+    "subjectCode": "MECH103",
+    "internalMarks": 15,
+    "externalMarks": 69,
+    "totalMarks": 84,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1075",
+    "semester": 2,
+    "subjectCode": "MECH104",
+    "internalMarks": 14,
+    "externalMarks": 69,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1075",
+    "semester": 2,
+    "subjectCode": "MECH105",
+    "internalMarks": 30,
+    "externalMarks": 66,
+    "totalMarks": 96,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 7,
+    "subjectCode": "MECH101",
+    "internalMarks": 21,
+    "externalMarks": 29,
+    "totalMarks": 50,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 7,
+    "subjectCode": "MECH102",
+    "internalMarks": 18,
+    "externalMarks": 32,
+    "totalMarks": 50,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 7,
+    "subjectCode": "MECH103",
+    "internalMarks": 13,
+    "externalMarks": 22,
+    "totalMarks": 35,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 7,
+    "subjectCode": "MECH104",
+    "internalMarks": 23,
+    "externalMarks": 59,
+    "totalMarks": 82,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1076",
+    "semester": 7,
+    "subjectCode": "MECH105",
+    "internalMarks": 10,
+    "externalMarks": 35,
+    "totalMarks": 45,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 7,
+    "subjectCode": "MECH101",
+    "internalMarks": 14,
+    "externalMarks": 62,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 7,
+    "subjectCode": "MECH102",
+    "internalMarks": 26,
+    "externalMarks": 34,
+    "totalMarks": 60,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 7,
+    "subjectCode": "MECH103",
+    "internalMarks": 23,
+    "externalMarks": 39,
+    "totalMarks": 62,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 7,
+    "subjectCode": "MECH104",
+    "internalMarks": 18,
+    "externalMarks": 23,
+    "totalMarks": 41,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1077",
+    "semester": 7,
+    "subjectCode": "MECH105",
+    "internalMarks": 27,
+    "externalMarks": 57,
+    "totalMarks": 84,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 8,
+    "subjectCode": "MECH101",
+    "internalMarks": 18,
+    "externalMarks": 33,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 8,
+    "subjectCode": "MECH102",
+    "internalMarks": 20,
+    "externalMarks": 61,
+    "totalMarks": 81,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 8,
+    "subjectCode": "MECH103",
+    "internalMarks": 12,
+    "externalMarks": 48,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 8,
+    "subjectCode": "MECH104",
+    "internalMarks": 21,
+    "externalMarks": 25,
+    "totalMarks": 46,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1078",
+    "semester": 8,
+    "subjectCode": "MECH105",
+    "internalMarks": 27,
+    "externalMarks": 66,
+    "totalMarks": 93,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 8,
+    "subjectCode": "MECH101",
+    "internalMarks": 17,
+    "externalMarks": 55,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 8,
+    "subjectCode": "MECH102",
+    "internalMarks": 20,
+    "externalMarks": 69,
+    "totalMarks": 89,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 8,
+    "subjectCode": "MECH103",
+    "internalMarks": 19,
+    "externalMarks": 44,
+    "totalMarks": 63,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 8,
+    "subjectCode": "MECH104",
+    "internalMarks": 24,
+    "externalMarks": 54,
+    "totalMarks": 78,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1079",
+    "semester": 8,
+    "subjectCode": "MECH105",
+    "internalMarks": 30,
+    "externalMarks": 42,
+    "totalMarks": 72,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1080",
+    "semester": 2,
+    "subjectCode": "MECH101",
+    "internalMarks": 14,
+    "externalMarks": 32,
+    "totalMarks": 46,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1080",
+    "semester": 2,
+    "subjectCode": "MECH102",
+    "internalMarks": 20,
+    "externalMarks": 34,
+    "totalMarks": 54,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1080",
+    "semester": 2,
+    "subjectCode": "MECH103",
+    "internalMarks": 22,
+    "externalMarks": 56,
+    "totalMarks": 78,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1080",
+    "semester": 2,
+    "subjectCode": "MECH104",
+    "internalMarks": 17,
+    "externalMarks": 51,
+    "totalMarks": 68,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1080",
+    "semester": 2,
+    "subjectCode": "MECH105",
+    "internalMarks": 27,
+    "externalMarks": 61,
+    "totalMarks": 88,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1081",
+    "semester": 2,
+    "subjectCode": "MECH101",
+    "internalMarks": 23,
+    "externalMarks": 28,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1081",
+    "semester": 2,
+    "subjectCode": "MECH102",
+    "internalMarks": 30,
+    "externalMarks": 34,
+    "totalMarks": 64,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1081",
+    "semester": 2,
+    "subjectCode": "MECH103",
+    "internalMarks": 12,
+    "externalMarks": 65,
+    "totalMarks": 77,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1081",
+    "semester": 2,
+    "subjectCode": "MECH104",
+    "internalMarks": 14,
+    "externalMarks": 20,
+    "totalMarks": 34,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1081",
+    "semester": 2,
+    "subjectCode": "MECH105",
+    "internalMarks": 16,
+    "externalMarks": 52,
+    "totalMarks": 68,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1082",
+    "semester": 2,
+    "subjectCode": "MECH101",
+    "internalMarks": 17,
+    "externalMarks": 32,
+    "totalMarks": 49,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1082",
+    "semester": 2,
+    "subjectCode": "MECH102",
+    "internalMarks": 29,
+    "externalMarks": 53,
+    "totalMarks": 82,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1082",
+    "semester": 2,
+    "subjectCode": "MECH103",
+    "internalMarks": 18,
+    "externalMarks": 42,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1082",
+    "semester": 2,
+    "subjectCode": "MECH104",
+    "internalMarks": 18,
+    "externalMarks": 70,
+    "totalMarks": 88,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1082",
+    "semester": 2,
+    "subjectCode": "MECH105",
+    "internalMarks": 22,
+    "externalMarks": 25,
+    "totalMarks": 47,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 5,
+    "subjectCode": "MECH101",
+    "internalMarks": 26,
+    "externalMarks": 22,
+    "totalMarks": 48,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 5,
+    "subjectCode": "MECH102",
+    "internalMarks": 17,
+    "externalMarks": 33,
+    "totalMarks": 50,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 5,
+    "subjectCode": "MECH103",
+    "internalMarks": 28,
+    "externalMarks": 50,
+    "totalMarks": 78,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 5,
+    "subjectCode": "MECH104",
+    "internalMarks": 18,
+    "externalMarks": 22,
+    "totalMarks": 40,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1083",
+    "semester": 5,
+    "subjectCode": "MECH105",
+    "internalMarks": 12,
+    "externalMarks": 63,
+    "totalMarks": 75,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 7,
+    "subjectCode": "MECH101",
+    "internalMarks": 26,
+    "externalMarks": 67,
+    "totalMarks": 93,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 7,
+    "subjectCode": "MECH102",
+    "internalMarks": 21,
+    "externalMarks": 23,
+    "totalMarks": 44,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 7,
+    "subjectCode": "MECH103",
+    "internalMarks": 13,
+    "externalMarks": 47,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 7,
+    "subjectCode": "MECH104",
+    "internalMarks": 17,
+    "externalMarks": 24,
+    "totalMarks": 41,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1084",
+    "semester": 7,
+    "subjectCode": "MECH105",
+    "internalMarks": 20,
+    "externalMarks": 58,
+    "totalMarks": 78,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1085",
+    "semester": 2,
+    "subjectCode": "MECH101",
+    "internalMarks": 14,
+    "externalMarks": 44,
+    "totalMarks": 58,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1085",
+    "semester": 2,
+    "subjectCode": "MECH102",
+    "internalMarks": 30,
+    "externalMarks": 29,
+    "totalMarks": 59,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1085",
+    "semester": 2,
+    "subjectCode": "MECH103",
+    "internalMarks": 22,
+    "externalMarks": 40,
+    "totalMarks": 62,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1085",
+    "semester": 2,
+    "subjectCode": "MECH104",
+    "internalMarks": 21,
+    "externalMarks": 26,
+    "totalMarks": 47,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1085",
+    "semester": 2,
+    "subjectCode": "MECH105",
+    "internalMarks": 12,
+    "externalMarks": 20,
+    "totalMarks": 32,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 7,
+    "subjectCode": "MECH101",
+    "internalMarks": 17,
+    "externalMarks": 56,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 7,
+    "subjectCode": "MECH102",
+    "internalMarks": 26,
+    "externalMarks": 30,
+    "totalMarks": 56,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 7,
+    "subjectCode": "MECH103",
+    "internalMarks": 22,
+    "externalMarks": 30,
+    "totalMarks": 52,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 7,
+    "subjectCode": "MECH104",
+    "internalMarks": 14,
+    "externalMarks": 37,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1086",
+    "semester": 7,
+    "subjectCode": "MECH105",
+    "internalMarks": 19,
+    "externalMarks": 37,
+    "totalMarks": 56,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1087",
+    "semester": 2,
+    "subjectCode": "MECH101",
+    "internalMarks": 19,
+    "externalMarks": 20,
+    "totalMarks": 39,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1087",
+    "semester": 2,
+    "subjectCode": "MECH102",
+    "internalMarks": 22,
+    "externalMarks": 41,
+    "totalMarks": 63,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1087",
+    "semester": 2,
+    "subjectCode": "MECH103",
+    "internalMarks": 29,
+    "externalMarks": 44,
+    "totalMarks": 73,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1087",
+    "semester": 2,
+    "subjectCode": "MECH104",
+    "internalMarks": 20,
+    "externalMarks": 48,
+    "totalMarks": 68,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1087",
+    "semester": 2,
+    "subjectCode": "MECH105",
+    "internalMarks": 20,
+    "externalMarks": 47,
+    "totalMarks": 67,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 6,
+    "subjectCode": "MECH101",
+    "internalMarks": 10,
+    "externalMarks": 66,
+    "totalMarks": 76,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 6,
+    "subjectCode": "MECH102",
+    "internalMarks": 24,
+    "externalMarks": 65,
+    "totalMarks": 89,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 6,
+    "subjectCode": "MECH103",
+    "internalMarks": 16,
+    "externalMarks": 48,
+    "totalMarks": 64,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 6,
+    "subjectCode": "MECH104",
+    "internalMarks": 19,
+    "externalMarks": 64,
+    "totalMarks": 83,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1088",
+    "semester": 6,
+    "subjectCode": "MECH105",
+    "internalMarks": 12,
+    "externalMarks": 70,
+    "totalMarks": 82,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1089",
+    "semester": 3,
+    "subjectCode": "MECH101",
+    "internalMarks": 21,
+    "externalMarks": 30,
+    "totalMarks": 51,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1089",
+    "semester": 3,
+    "subjectCode": "MECH102",
+    "internalMarks": 30,
+    "externalMarks": 59,
+    "totalMarks": 89,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1089",
+    "semester": 3,
+    "subjectCode": "MECH103",
+    "internalMarks": 11,
+    "externalMarks": 56,
+    "totalMarks": 67,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1089",
+    "semester": 3,
+    "subjectCode": "MECH104",
+    "internalMarks": 30,
+    "externalMarks": 63,
+    "totalMarks": 93,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1089",
+    "semester": 3,
+    "subjectCode": "MECH105",
+    "internalMarks": 30,
+    "externalMarks": 45,
+    "totalMarks": 75,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 8,
+    "subjectCode": "MECH101",
+    "internalMarks": 19,
+    "externalMarks": 41,
+    "totalMarks": 60,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 8,
+    "subjectCode": "MECH102",
+    "internalMarks": 24,
+    "externalMarks": 70,
+    "totalMarks": 94,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 8,
+    "subjectCode": "MECH103",
+    "internalMarks": 16,
+    "externalMarks": 53,
+    "totalMarks": 69,
+    "status": "FAIL",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 8,
+    "subjectCode": "MECH104",
+    "internalMarks": 25,
+    "externalMarks": 42,
+    "totalMarks": 67,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  },
+  {
+    "rollNo": "STU1090",
+    "semester": 8,
+    "subjectCode": "MECH105",
+    "internalMarks": 25,
+    "externalMarks": 26,
+    "totalMarks": 51,
+    "status": "PASS",
+    "academicYear": "2024-25"
+  }
+]

@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const semesterMetricSchema = new mongoose.Schema(
   {
@@ -39,4 +40,4 @@ const studentSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-export default mongoose.model("Student", studentSchema);
+export default mainDB.model("Student", studentSchema);

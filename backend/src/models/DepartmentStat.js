@@ -1,4 +1,5 @@
 import mongoose from "mongoose";
+import { mainDB } from "../config/db.js";
 
 const departmentStatSchema = new mongoose.Schema(
   {
@@ -15,4 +16,4 @@ const departmentStatSchema = new mongoose.Schema(
 
 departmentStatSchema.index({ department: 1, semester: 1, academicYear: 1 }, { unique: true });
 
-export default mongoose.model("DepartmentStat", departmentStatSchema);
+export default mainDB.model("DepartmentStat", departmentStatSchema);
