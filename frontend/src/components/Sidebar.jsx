@@ -16,7 +16,7 @@ const ICONS = {
       <path d="M2 21v-1c0-2.76 2.24-5 5-5h2c2.76 0 5 2.24 5 5v1" />
     </svg>
   ),
-  "Accreditation Report": (
+  "Accreditation Reports": (
     <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2">
       <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
       <path d="M14 2v6h6M9 14l2 2 4-4" />

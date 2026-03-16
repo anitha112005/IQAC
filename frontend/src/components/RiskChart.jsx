@@ -1,4 +1,4 @@
-import { Pie, PieChart, Cell, ResponsiveContainer, Tooltip, Legend } from "recharts";
+import { Pie, PieChart, Cell, Tooltip, Legend } from "recharts";
 import SafeChartContainer from "./SafeChartContainer.jsx";
 
 export default function RiskChart({ data }) {
@@ -8,9 +8,8 @@ export default function RiskChart({ data }) {
       <p className="mt-1 text-sm text-brand-ink/75">Categorized into High, Medium, and Low risk cohorts.</p>
 
       <SafeChartContainer className="mt-4 h-80 w-full min-w-0" minHeight={320}>
-        {() => (
-          <ResponsiveContainer width="100%" height="100%" minWidth={0} minHeight={240}>
-            <PieChart>
+        {(size) => (
+            <PieChart width={size.width} height={size.height}>
               <Pie
                 data={data}
                 dataKey="value"
@@ -29,7 +28,6 @@ export default function RiskChart({ data }) {
               <Tooltip />
               <Legend />
             </PieChart>
-          </ResponsiveContainer>
         )}
       </SafeChartContainer>
     </section>
