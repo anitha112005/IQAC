@@ -61,7 +61,7 @@ export default function App() {
       <Route
         path="/faculty"
         element={
-          <ProtectedRoute allowedRoles={["faculty", "hod", "admin"]}>
+          <ProtectedRoute allowedRoles={["faculty", "hod"]}>
             <AppLayout>
               <FacultyDashboard />
             </AppLayout>

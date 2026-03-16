@@ -1,15 +1,21 @@
-import { Link, useNavigate } from "react-router-dom";
+import { Link, useLocation, useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext.jsx";
 
 
 export default function AppLayout({ children }) {
   const { user, logout } = useAuth();
+  const location = useLocation();
   const navigate = useNavigate();
+  const isHomeRoute = location.pathname === "/home";
 
   const onLogout = () => {
     logout();
     navigate("/auth");
   };
+
+  if (isHomeRoute) {
+    return <div className="min-h-screen">{children}</div>;
+  }
 
   return (
     <div className="min-h-screen bg-pattern">

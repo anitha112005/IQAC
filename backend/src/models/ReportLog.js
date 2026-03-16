@@ -12,7 +12,10 @@ const reportLogSchema = new mongoose.Schema(
         "BACKLOG_ANALYSIS",
         "PLACEMENT",
         "FACULTY_CONTRIBUTION",
-        "SECTION_WISE"
+        "SECTION_WISE",
+        "FACULTY_ACCREDITATION",
+        "DEPARTMENT_ACCREDITATION",
+        "STUDENT_ACCREDITATION"
       ],
       required: true
     },

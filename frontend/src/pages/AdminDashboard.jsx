@@ -10,15 +10,19 @@ const NAV_ITEMS = [
   "Overview",
   "Add Department",
   "Add Faculty",
-  "Accreditation Report",
+  "Accreditation Reports",
   "Department Compare",
   "Institutional Analysis"
 ];
 
 export default function AdminDashboard() {
   const [activeItem, setActiveItem] = useState("Overview");
+  const [reportMode, setReportMode] = useState("");
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [submitting, setSubmitting] = useState(false);
+  const [downloadingReport, setDownloadingReport] = useState("");
+  const [reportHistoryRows, setReportHistoryRows] = useState([]);
+  const [reportStatus, setReportStatus] = useState("");
   const [entities, setEntities] = useState({ departments: [], faculties: [], students: [] });
   const [analytics, setAnalytics] = useState(null);
   const [faculties, setFaculties] = useState([]);
@@ -46,7 +50,61 @@ export default function AdminDashboard() {
     if (activeItem === "Add Faculty") {
       setDrawerOpen(true);
     }
+
+    if (activeItem !== "Accreditation Reports") {
+      setReportMode("");
+      setReportStatus("");
+      setDownloadingReport("");
+    }
   }, [activeItem]);
+
+  const downloadReport = async (type) => {
+    setReportStatus("");
+    setDownloadingReport(type);
+
+    const endpointMap = {
+      faculty: "/reports/faculty",
+      department: "/reports/department",
+      student: "/reports/student"
+    };
+
+    try {
+      const res = await client.get(endpointMap[type], {
+        responseType: "blob",
+        params: { format: "PDF" }
+      });
+
+      const blob = new Blob([res.data], { type: "application/pdf" });
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      const nameMap = {
+        faculty: "faculty_accreditation_report.pdf",
+        department: "department_accreditation_report.pdf",
+        student: "student_accreditation_report.pdf"
+      };
+      a.href = url;
+      a.download = nameMap[type];
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      window.URL.revokeObjectURL(url);
+      setReportStatus("Report downloaded successfully.");
+    } catch (error) {
+      setReportStatus(error.response?.data?.message || "Unable to generate report");
+    } finally {
+      setDownloadingReport("");
+    }
+  };
+
+  const loadReportHistory = async () => {
+    setReportStatus("");
+    try {
+      const { data } = await client.get("/reports/history");
+      setReportHistoryRows(data.data || []);
+    } catch (error) {
+      setReportStatus(error.response?.data?.message || "Unable to load report history");
+    }
+  };
 
   const stats = useMemo(
     () => [
@@ -219,6 +277,102 @@ export default function AdminDashboard() {
             {activeItem === "Department Compare" && (
               <div className="mt-6">
                 <DepartmentChart data={departmentComparison} />
+              </div>
+            )}
+            {activeItem === "Accreditation Reports" && (
+              <div className="mt-6 space-y-5">
+                <div className="flex flex-wrap gap-3">
+                  <button
+                    onClick={() => setReportMode("generate")}
+                    className={`rounded-xl px-4 py-2 text-sm font-semibold text-white shadow transition hover:scale-[1.02] ${reportMode === "generate" ? "bg-gradient-to-r from-brand-ink to-brand-ocean" : "bg-gradient-to-r from-brand-ink/80 to-brand-ocean/80"}`}
+                  >
+                    Report Generation
+                  </button>
+                  <button
+                    onClick={async () => {
+                      setReportMode("history");
+                      await loadReportHistory();
+                    }}
+                    className={`rounded-xl px-4 py-2 text-sm font-semibold text-white shadow transition hover:scale-[1.02] ${reportMode === "history" ? "bg-gradient-to-r from-brand-ocean to-brand-flame" : "bg-gradient-to-r from-brand-ocean/80 to-brand-flame/80"}`}
+                  >
+                    View Previous Reports
+                  </button>
+                </div>
+
+                {reportStatus && <p className="text-sm text-brand-ink">{reportStatus}</p>}
+
+                {reportMode === "generate" && (
+                  <div className="grid gap-4 md:grid-cols-3">
+                    <article className="rounded-2xl border border-white/55 bg-white/70 p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md">
+                      <h4 className="font-semibold text-brand-ink">Faculty Report</h4>
+                      <p className="mt-2 text-sm text-brand-ink/75">Generate a detailed report containing faculty performance, publications, achievements, and teaching analytics.</p>
+                      <button
+                        onClick={() => downloadReport("faculty")}
+                        disabled={downloadingReport === "faculty"}
+                        className="mt-4 inline-flex items-center gap-2 rounded-lg bg-gradient-to-r from-[#5f8cff] to-[#a855f7] px-3 py-2 text-sm font-semibold text-white shadow-[0_0_18px_rgba(95,140,255,0.45)] transition hover:scale-[1.03] disabled:opacity-60"
+                      >
+                        <span aria-hidden="true">DL</span>
+                        {downloadingReport === "faculty" ? "Generating..." : "Download Faculty Report"}
+                      </button>
+                    </article>
+
+                    <article className="rounded-2xl border border-white/55 bg-white/70 p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md">
+                      <h4 className="font-semibold text-brand-ink">Department Report</h4>
+                      <p className="mt-2 text-sm text-brand-ink/75">Download department performance with pass percentage, faculty count, and research output summary.</p>
+                      <button
+                        onClick={() => downloadReport("department")}
+                        disabled={downloadingReport === "department"}
+                        className="mt-4 inline-flex items-center gap-2 rounded-lg bg-gradient-to-r from-[#5f8cff] to-[#a855f7] px-3 py-2 text-sm font-semibold text-white shadow-[0_0_18px_rgba(95,140,255,0.45)] transition hover:scale-[1.03] disabled:opacity-60"
+                      >
+                        <span aria-hidden="true">DL</span>
+                        {downloadingReport === "department" ? "Generating..." : "Download Department Report"}
+                      </button>
+                    </article>
+
+                    <article className="rounded-2xl border border-white/55 bg-white/70 p-4 shadow-sm transition hover:-translate-y-1 hover:shadow-md">
+                      <h4 className="font-semibold text-brand-ink">Student Report</h4>
+                      <p className="mt-2 text-sm text-brand-ink/75">Download SGPA/CGPA analysis, attendance, backlog trends, and risk-level statistics.</p>
+                      <button
+                        onClick={() => downloadReport("student")}
+                        disabled={downloadingReport === "student"}
+                        className="mt-4 inline-flex items-center gap-2 rounded-lg bg-gradient-to-r from-[#5f8cff] to-[#a855f7] px-3 py-2 text-sm font-semibold text-white shadow-[0_0_18px_rgba(95,140,255,0.45)] transition hover:scale-[1.03] disabled:opacity-60"
+                      >
+                        <span aria-hidden="true">DL</span>
+                        {downloadingReport === "student" ? "Generating..." : "Download Student Report"}
+                      </button>
+                    </article>
+                  </div>
+                )}
+
+                {reportMode === "history" && (
+                  <div className="overflow-x-auto rounded-2xl border border-white/50 bg-white/70 p-3">
+                    <table className="min-w-full text-left text-sm">
+                      <thead className="text-brand-ink/70">
+                        <tr>
+                          <th className="px-3 py-2">Report Type</th>
+                          <th className="px-3 py-2">Format</th>
+                          <th className="px-3 py-2">Generated By</th>
+                          <th className="px-3 py-2">Created At</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {reportHistoryRows.map((row) => (
+                          <tr key={row._id} className="border-t border-brand-ink/10">
+                            <td className="px-3 py-2">{row.reportType}</td>
+                            <td className="px-3 py-2">{row.format}</td>
+                            <td className="px-3 py-2">{row.generatedBy?.name || row.generatedBy?.email || "System"}</td>
+                            <td className="px-3 py-2">{new Date(row.createdAt).toLocaleString()}</td>
+                          </tr>
+                        ))}
+                        {!reportHistoryRows.length && (
+                          <tr>
+                            <td colSpan={4} className="px-3 py-5 text-center text-brand-ink/60">No previous reports found.</td>
+                          </tr>
+                        )}
+                      </tbody>
+                    </table>
+                  </div>
+                )}
               </div>
             )}
           </section>
