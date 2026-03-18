@@ -304,6 +304,14 @@ function buildNlqPrompt(question, databaseSummary) {
     .map(dept => `${dept.name} (${dept.code}): averageCgpa=${dept.averageCgpa}, passPercent=${dept.passPercent}%, backlogRate=${dept.backlogRate}%, placementRate=${dept.placementRate}%, researchCount=${dept.researchCount||0}, achievementCount=${dept.achievementCount||0}`)
     .join('\n');
 
+  const topStudentsStr = (d.topStudents || [])
+    .map(s => `${s.name} (Roll: ${s.rollNo}, CGPA: ${s.cgpa})`)
+    .join(', ');
+
+  const highRiskStudentsStr = (d.highRiskStudents || [])
+    .map(s => `${s.name} (CGPA: ${s.cgpa}, Att: ${s.attendance}%)`)
+    .join(', ');
+
   return `SYSTEM ARCHITECTURE CONTEXT
 You are the Natural Language Analytics Engine for an IQAC Academic Intelligence System.
 Your job is to answer user questions by retrieving real information from MongoDB and generating accurate natural-language responses.
@@ -311,7 +319,7 @@ You must behave like a database-grounded analytics assistant, not a generative c
 
 STRICT DATA-GROUNDING RULES
 1. Every answer must be based strictly on the provided MongoDB data below.
-2. Never invent numbers.
+2. Never invent numbers or names.
 3. Never estimate values.
 4. Never generate statistics that are not present in the provided data.
 5. If the requested information cannot be derived from the provided data, respond with EXACTLY: "The requested information is not available in the current IQAC analytics dataset."
@@ -334,6 +342,8 @@ attendanceShortageCount: ${d.attendanceShortageCount || d.attendanceShortage}
 departments:
 ${deptStr}
 accreditation: nbaReadiness=${d.accreditation?.nbaReadiness || d.nbaReadiness || 0}%, naacReadiness=${d.accreditation?.naacReadiness || d.naacReadiness || 0}%, pendingNBA=${d.accreditation?.pendingNBA||0}, pendingNAAC=${d.accreditation?.pendingNAAC||0}
+topStudents (highest CGPA): ${topStudentsStr || 'None listed'}
+highRiskStudents (critical attention needed): ${highRiskStudentsStr || 'None listed'}
 
 FAILSAFE RULE
 If the user asks about data that is not available in the provided MongoDB summary (like hostel occupancy, specific faculty names not listed, etc.), you MUST respond EXACTLY with:

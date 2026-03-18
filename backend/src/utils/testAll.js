@@ -697,7 +697,16 @@ const run = async () => {
         naacReadiness: aggregatedAccreditationData.naac.readinessScore,
         pendingNBA: liveNBA.filter(i => !i.completed).length,
         pendingNAAC: liveNAAC.filter(i => !i.completed).length
-      }
+      },
+      topStudents: [...liveStudents]
+        .filter(s => getLatest(s))
+        .sort((a, b) => (getLatest(b)?.cgpa || 0) - (getLatest(a)?.cgpa || 0))
+        .slice(0, 5)
+        .map(s => ({ name: s.name, rollNo: s.rollNo, cgpa: getLatest(s)?.cgpa || 0 })),
+      highRiskStudents: liveStudents
+        .filter(s => s.riskLevel === "HIGH")
+        .slice(0, 5)
+        .map(s => ({ name: s.name, cgpa: getLatest(s)?.cgpa || 0, attendance: getLatest(s)?.attendancePercent || 0 }))
     };
     return expect(
       aggregatedAccreditationData.nba.readinessScore,
